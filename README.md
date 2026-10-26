@@ -1,5 +1,6 @@
 # Transferências intergovernamentais, receitas próprias e atividade econômica
 
+
 **Disciplina:** Finanças do Setor Público
 **Nome:** Thainá Cristine Martins do Nascimento
 **Matrícula:** 242011273  
