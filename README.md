@@ -6,8 +6,11 @@
 **Nome:** Thainá Cristine Martins do Nascimento
 
 **Matrícula:** 242011273  
+
 **Cobertura fiscal principal:** 2016–2025  
+
 **Unidades:** Cascavel/PR, Londrina/PR e agregado dos governos locais da China  
+
 **Data de coleta documentada:** 22 de outubro de 2026
 
 > **Transparência acadêmica:** este material foi preparado com assistência de IA.
