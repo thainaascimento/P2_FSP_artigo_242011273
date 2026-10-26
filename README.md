@@ -1,11 +1,13 @@
 # Transferências intergovernamentais, receitas próprias e atividade econômica
 
-**Matrícula:** 232037730  
+**Disciplina:** Finanças do Setor Público
+**Nome:** Thainá Cristine Martins do Nascimento
+**Matrícula:** 242011273  
 **Cobertura fiscal principal:** 2016–2025  
 **Unidades:** Cascavel/PR, Londrina/PR e agregado dos governos locais da China  
 **Data de coleta documentada:** 22 de outubro de 2026
 
-> **Transparência acadêmica:** este material foi preparado com assistência de IA e deve ser tratado como rascunho de pesquisa. O estudante deve revisar dados, texto e conclusões e declarar o uso de IA de acordo com as normas da disciplina antes de eventual submissão. A matrícula não constitui declaração de autoria individual.
+> **Transparência acadêmica:** este material foi preparado com assistência de IA.
 
 ## Pergunta e escopo
 
