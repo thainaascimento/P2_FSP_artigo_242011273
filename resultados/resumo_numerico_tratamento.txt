@@ -1,0 +1,8 @@
+Painel fiscal Brasil–China, 2014–2023 — QA
+Acesso: 2026-10-22; deflatores em preços médios de 2023.
+Cascavel/Londrina: 20 observações; China: 10 observações; faltantes fiscais centrais=0.
+Câmbio 2023: BRL/USD=4.994380; CNY/USD=7.083998. Conversões em USD de mercado, não PPC.
+2023 população municipal usa população censitária 2022 publicada na relação TCU 2023, explicitamente proxy.
+Comparação é descritiva: rubricas brasileiras 1.7+2.4 são transferências correntes/de capital amplas, não exclusivamente intergovernamentais; China é agregado nacional de transferências centrais para governos locais. Definições e níveis não são plenamente harmonizados.
+Não estima efeito causal nem regressão: dez observações anuais por série não sustentam identificação do efeito flypaper.
+Arquivos: painel_municipal_2014_2023.csv; painel_china_2014_2023.csv; base_atualizada_232037730.xlsx; figuras em resultados.

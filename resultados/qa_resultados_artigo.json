@@ -1,0 +1,21 @@
+{
+  "access_date": "2026-10-22",
+  "fiscal_years": [
+    2016,
+    2025
+  ],
+  "brazil_rows": 20,
+  "china_rows": 10,
+  "brazil_municipal_gdp_through": 2023,
+  "china_national_gdp_through": 2023,
+  "fx_brl_per_usd_2025": 5.587286,
+  "fx_cny_per_usd_2025": 7.189847,
+  "causal_claims": false,
+  "outputs": [
+    "resultados_descritivos_artigo_2016_2025.csv",
+    "associacoes_exploratorias_artigo.csv",
+    "associacoes_pib_artigo.csv",
+    "artigo/figuras/figura_04_paineis_fiscais_2016_2025.png",
+    "artigo/figuras/figura_05_pib_pc_indice_2016_2023.png"
+  ]
+}

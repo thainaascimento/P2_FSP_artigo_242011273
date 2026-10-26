@@ -1,0 +1,4 @@
+﻿unidade,periodo,associacao,r_pearson_descritivo,n,aviso
+Cascavel/PR,2016–2023,níveis anuais,0.9582869464858573,8,"N pequeno; GDP municipal só até 2023; descritivo, sem identificação causal."
+Londrina/PR,2016–2023,níveis anuais,0.5804933383047333,8,"N pequeno; GDP municipal só até 2023; descritivo, sem identificação causal."
+China — agregado local e PIB nacional,2016–2023,níveis anuais,0.9546538276702327,8,"N pequeno; mistura agregado local com PIB nacional; WDI em USD constantes de 2015; descritivo, sem identificação causal."

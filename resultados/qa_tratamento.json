@@ -1,0 +1,29 @@
+{
+  "access_date": "2026-10-22",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "brazil_rows": 20,
+  "china_rows": 10,
+  "brazil_missing_core": 0,
+  "china_missing_core": 0,
+  "cpi_base_year": 2023,
+  "brazil_fx_2023_brl_per_usd": 4.99437976287199,
+  "china_fx_2023_cny_per_usd": 7.0839984234363,
+  "population_2023_note": "IBGE Censo 2022 / lista TCU 2023; valor não é estimativa populacional anual de 2023.",
+  "outputs": [
+    "dados/tratados/painel_municipal_2014_2023.csv",
+    "dados/tratados/painel_china_2014_2023.csv",
+    "resultados/tabela_resumo_2014_2023.csv",
+    "dados/base_atualizada_232037730.xlsx"
+  ]
+}
