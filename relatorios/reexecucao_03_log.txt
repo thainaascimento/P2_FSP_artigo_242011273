@@ -1,0 +1,17 @@
+10-year extension: Brazil 20 city-years; China 10 national-years; combined 30 records
+IPCA 2025 base: 191.352509; WDI FX 2025 BRL/USD=5.587286, CNY/USD=7.189847
+Workbook updated without replacing the 2014–2023 source-aligned panel.
+  pais                     unidade                                indicador        2016        2025  variacao_real_%          unidade_medida
+Brasil                 Cascavel/PR          Transferências reais per capita  398.219740  531.292568        33.416934 USD 2025 mercado/pessoa
+Brasil                 Cascavel/PR           Transferências / receita total   53.595321   48.767336        -9.008222                       %
+Brasil                 Cascavel/PR                 Tributos / receita total   25.335889   30.517685        20.452393                       %
+Brasil                 Cascavel/PR        Despesa empenhada real per capita 3839.454475 5333.167488        38.904303         BRL 2025/pessoa
+Brasil                 Londrina/PR          Transferências reais per capita  413.576453  552.564164        33.606292 USD 2025 mercado/pessoa
+Brasil                 Londrina/PR           Transferências / receita total   48.813597   45.577694        -6.629101                       %
+Brasil                 Londrina/PR                 Tributos / receita total   28.358674   39.320395        38.653854                       %
+Brasil                 Londrina/PR        Despesa empenhada real per capita 4545.575522 6246.385866        37.416832         BRL 2025/pessoa
+ China Agregado de governos locais Transferências centrais reais per capita  674.376130 1007.849451        49.449158 USD 2025 mercado/pessoa
+ China Agregado de governos locais           Transferências / receita local   40.554879   45.500791         4.945913                       %
+ China Agregado de governos locais          Receita própria / receita local   59.445121   54.499209        -4.945913                       %
+ China Agregado de governos locais           Transferências / despesa local   37.077668   41.710856         4.633188                       %
+ China Agregado de governos locais            Transferências / PIB nacional    7.814884    7.270608        -0.544277                       %

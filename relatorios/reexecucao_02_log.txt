@@ -1,0 +1,63 @@
+{
+  "access_date": "2026-10-22",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "brazil_rows": 20,
+  "china_rows": 10,
+  "brazil_missing_core": 0,
+  "china_missing_core": 0,
+  "cpi_base_year": 2023,
+  "brazil_fx_2023_brl_per_usd": 4.99437976287199,
+  "china_fx_2023_cny_per_usd": 7.0839984234363,
+  "population_2023_note": "IBGE Censo 2022 / lista TCU 2023; valor não é estimativa populacional anual de 2023.",
+  "outputs": [
+    "dados/tratados/painel_municipal_2014_2023.csv",
+    "dados/tratados/painel_china_2014_2023.csv",
+    "resultados/tabela_resumo_2014_2023.csv",
+    "dados/base_atualizada_232037730.xlsx"
+  ]
+}
+
+Resumo 2014–2023:
+  país                     unidade                                                   indicador         2014         2023  variação_%  unidade_medida
+Brasil                 Cascavel/PR         Transferências correntes + capital reais per capita 1.909970e+03 2.646826e+03   38.579424 BRL 2023/pessoa
+Brasil                 Cascavel/PR Transferências correntes + capital per capita (USD de 2023) 3.824239e+02 5.299608e+02   38.579424 USD 2023/pessoa
+Brasil                 Cascavel/PR                              Transferências / receita total 5.572425e+01 4.792204e+01  -14.001467               %
+Brasil                 Cascavel/PR                                    Tributos / receita total 2.706164e+01 2.829013e+01    4.539600               %
+Brasil                 Cascavel/PR                              Transferências / PIB municipal 3.702568e+00 4.797031e+00   29.559558               %
+Brasil                 Cascavel/PR                        Despesas empenhadas reais per capita 2.899505e+03 4.972989e+03   71.511673 BRL 2023/pessoa
+Brasil                 Cascavel/PR                               Receita tributária real total 2.868526e+08 5.438359e+08   89.587228        BRL 2023
+Brasil                 Cascavel/PR             Transferências correntes + capital reais totais 5.906755e+08 9.212303e+08   55.962177        BRL 2023
+Brasil                 Cascavel/PR     Transferências correntes + capital totais (USD de 2023) 1.182680e+08 1.844534e+08   55.962177        USD 2023
+Brasil                 Cascavel/PR                                          PIB municipal real 1.595313e+10 1.920418e+10   20.378750        BRL 2023
+Brasil                 Londrina/PR         Transferências correntes + capital reais per capita 2.119711e+03 2.647388e+03   24.893819 BRL 2023/pessoa
+Brasil                 Londrina/PR Transferências correntes + capital per capita (USD de 2023) 4.244193e+02 5.300734e+02   24.893819 USD 2023/pessoa
+Brasil                 Londrina/PR                              Transferências / receita total 5.141102e+01 4.584044e+01  -10.835386               %
+Brasil                 Londrina/PR                                    Tributos / receita total 3.100089e+01 3.910114e+01   26.129077               %
+Brasil                 Londrina/PR                              Transferências / PIB municipal 4.151013e+00 5.256712e+00   26.636855               %
+Brasil                 Londrina/PR                        Despesas empenhadas reais per capita 3.798146e+03 5.577696e+03   46.853121 BRL 2023/pessoa
+Brasil                 Londrina/PR                               Receita tributária real total 6.940597e+08 1.255468e+09   80.887623        BRL 2023
+Brasil                 Londrina/PR             Transferências correntes + capital reais totais 1.151009e+09 1.471855e+09   27.875154        BRL 2023
+Brasil                 Londrina/PR     Transferências correntes + capital totais (USD de 2023) 2.304609e+08 2.947023e+08   27.875154        USD 2023
+Brasil                 Londrina/PR                                          PIB municipal real 2.772840e+10 2.799954e+10    0.977834        BRL 2023
+ China Agregado de governos locais                    Transferências centrais reais per capita 4.390333e+03 7.297403e+03   66.215256 CNY 2023/pessoa
+ China Agregado de governos locais            Transferências centrais per capita (USD de 2023) 6.197535e+02 1.030125e+03   66.215256 USD 2023/pessoa
+ China Agregado de governos locais                              Transferências / receita local 4.048545e+01 4.675847e+01   15.494491               %
+ China Agregado de governos locais                             Receita própria / receita local 5.951455e+01 5.324153e+01  -10.540305               %
+ China Agregado de governos locais                              Transferências / despesa local 3.997505e+01 4.355543e+01    8.956530               %
+ China Agregado de governos locais                               Transferências / PIB nacional 7.869136e+00 7.953908e+00    1.077274               %
+ China Agregado de governos locais                                Despesa local / PIB nacional 1.968512e+01 1.826158e+01   -7.231559               %
+ China Agregado de governos locais                                  Receita local própria real 8.853834e+12 1.172186e+13   32.392987        CNY 2023
+ China Agregado de governos locais                               Transferências centrais reais 6.022922e+12 1.029452e+13   70.922342        CNY 2023
+ China Agregado de governos locais                Transferências centrais totais (USD de 2023) 8.502150e+11 1.453207e+12   70.922342        USD 2023
+ China Agregado de governos locais                                          Despesa local real 1.506670e+13 2.363544e+13   56.872050        CNY 2023
