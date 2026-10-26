@@ -1,0 +1,1338 @@
+{
+  "NY.GDP.MKTP.CD": {
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.MKTP.CD?date=2014:2023&format=json",
+    "source": "World Bank WDI",
+    "access_date": "2026-10-22",
+    "data": [
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2023",
+        "value": 18270356654533.2,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2022",
+        "value": 18316765021690.2,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2021",
+        "value": 18201698719564,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2020",
+        "value": 14996414166715.1,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2019",
+        "value": 14560167101283.4,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2018",
+        "value": 14147765772963.8,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2017",
+        "value": 12537559062282.9,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2016",
+        "value": 11456024084962,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2015",
+        "value": 11280814787468.9,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.MKTP.CD",
+          "value": "GDP (current US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2014",
+        "value": 10674533168257.4,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      }
+    ]
+  },
+  "SP.POP.TOTL": {
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?date=2014:2023&format=json",
+    "source": "World Bank WDI",
+    "access_date": "2026-10-22",
+    "data": [
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2023",
+        "value": 1410710000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2022",
+        "value": 1412175000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2021",
+        "value": 1412360000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2020",
+        "value": 1411100000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2019",
+        "value": 1407745000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2018",
+        "value": 1402760000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2017",
+        "value": 1396215000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2016",
+        "value": 1387790000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2015",
+        "value": 1379860000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2014",
+        "value": 1371860000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      }
+    ]
+  },
+  "FP.CPI.TOTL": {
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL?date=2014:2023&format=json",
+    "source": "World Bank WDI",
+    "access_date": "2026-10-22",
+    "data": [
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2023",
+        "value": 132.229151902431,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2022",
+        "value": 131.919356668534,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2021",
+        "value": 129.366216637456,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2020",
+        "value": 128.109443605623,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2019",
+        "value": 125.083154382074,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2018",
+        "value": 121.558877866113,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2017",
+        "value": 119.088050428681,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2016",
+        "value": 117.220567369673,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2015",
+        "value": 114.922122819495,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "FP.CPI.TOTL",
+          "value": "Consumer price index (2010 = 100)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2014",
+        "value": 113.294060199837,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      }
+    ]
+  },
+  "PA.NUS.FCRF": {
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/PA.NUS.FCRF?date=2014:2023&format=json",
+    "source": "World Bank WDI",
+    "access_date": "2026-10-22",
+    "data": [
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2023",
+        "value": 7.0839984234363,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2022",
+        "value": 6.73715811237118,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2021",
+        "value": 6.44897518024316,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2020",
+        "value": 6.90076726944924,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2019",
+        "value": 6.90838500992901,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2018",
+        "value": 6.61595717735439,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2017",
+        "value": 6.75875508633597,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2016",
+        "value": 6.6444778294468,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2015",
+        "value": 6.22748867298454,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2014",
+        "value": 6.14343409448867,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      }
+    ]
+  },
+  "GC.REV.XGRT.GD.ZS": {
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/GC.REV.XGRT.GD.ZS?date=2014:2023&format=json",
+    "source": "World Bank WDI",
+    "access_date": "2026-10-22",
+    "data": [
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2023",
+        "value": 15.0661250338704,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2022",
+        "value": 14.6559605630141,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2021",
+        "value": 14.6241117527941,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2020",
+        "value": 13.7961540297522,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2019",
+        "value": 15.7907279889576,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2018",
+        "value": 16.2403554427458,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2017",
+        "value": 15.595511924101,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2016",
+        "value": 15.326073498047,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2015",
+        "value": 15.7312275700006,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.REV.XGRT.GD.ZS",
+          "value": "Revenue, excluding grants (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2014",
+        "value": 15.5234236261726,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      }
+    ]
+  },
+  "GC.TAX.TOTL.GD.ZS": {
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/GC.TAX.TOTL.GD.ZS?date=2014:2023&format=json",
+    "source": "World Bank WDI",
+    "access_date": "2026-10-22",
+    "data": [
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2023",
+        "value": 7.6382330077989,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2022",
+        "value": 7.51799464421188,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2021",
+        "value": 7.79829641266187,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2020",
+        "value": 7.92409749807608,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2019",
+        "value": 8.32942550168391,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2018",
+        "value": 8.89089034445248,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2017",
+        "value": 9.24872439343925,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2016",
+        "value": 8.94556190414739,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2015",
+        "value": 9.19468038601503,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "GC.TAX.TOTL.GD.ZS",
+          "value": "Tax revenue (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2014",
+        "value": 9.49826837509792,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      }
+    ]
+  },
+  "NE.CON.GOVT.ZS": {
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/NE.CON.GOVT.ZS?date=2014:2023&format=json",
+    "source": "World Bank WDI",
+    "access_date": "2026-10-22",
+    "data": [
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2023",
+        "value": 17.1891419707315,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2022",
+        "value": 16.6626986358672,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2021",
+        "value": 16.3512045683208,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2020",
+        "value": 17.6037978191606,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2019",
+        "value": 17.1510123948127,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2018",
+        "value": 16.8365384091475,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2017",
+        "value": 16.501760892272,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2016",
+        "value": 16.4004661104345,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2015",
+        "value": 16.2578121496943,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NE.CON.GOVT.ZS",
+          "value": "General government final consumption expenditure (% of GDP)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2014",
+        "value": 15.8783188765672,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      }
+    ]
+  },
+  "NY.GDP.PCAP.KD": {
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.KD?date=2014:2023&format=json&per_page=100",
+    "source": "World Bank WDI",
+    "access_date": "2026-10-22",
+    "data": [
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2023",
+        "value": 12483.9791101249,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2022",
+        "value": 11830.298767861,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2021",
+        "value": 11469.3174514512,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2020",
+        "value": 10573.3794064211,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2019",
+        "value": 10356.2924890582,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2018",
+        "value": 9798.57890566402,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2017",
+        "value": 9221.35045639842,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2016",
+        "value": 8679.22528805041,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2015",
+        "value": 8175.33285077393,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.KD",
+          "value": "GDP per capita (constant 2015 US$)"
+        },
+        "country": {
+          "id": "CN",
+          "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2014",
+        "value": 7686.37369520403,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      }
+    ]
+  }
+}

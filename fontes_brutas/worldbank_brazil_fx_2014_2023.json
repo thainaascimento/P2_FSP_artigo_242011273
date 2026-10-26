@@ -1,0 +1,167 @@
+{
+  "url": "https://api.worldbank.org/v2/country/BRA/indicator/PA.NUS.FCRF?date=2014:2023&format=json&per_page=100",
+  "source": "World Bank WDI",
+  "access_date": "2026-10-22",
+  "data": [
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 4.99437976287199,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 5.16397029102111,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 5.39440078962503,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 5.1551787875128,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 3.9444710972507,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 3.65382536145755,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 3.19138944630048,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 3.4913134215727,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 3.32690438276879,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "PA.NUS.FCRF",
+        "value": "Official exchange rate (LCU per US$, period average)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 2.35295196276668,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    }
+  ]
+}
