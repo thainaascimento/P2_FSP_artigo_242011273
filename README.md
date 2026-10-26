@@ -2,7 +2,9 @@
 
 
 **Disciplina:** Finanças do Setor Público
+
 **Nome:** Thainá Cristine Martins do Nascimento
+
 **Matrícula:** 242011273  
 **Cobertura fiscal principal:** 2016–2025  
 **Unidades:** Cascavel/PR, Londrina/PR e agregado dos governos locais da China  
