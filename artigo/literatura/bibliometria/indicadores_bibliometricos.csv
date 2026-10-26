@@ -1,0 +1,7 @@
+"indicator","value","note"
+"registros_incluidos","97","artigos com DOI e título compatível; 4 registros em revisão manual não foram usados"
+"anos_cobertos","1981–2026","ano inicial e final de publicação"
+"periodicos_distintos","53","conforme a fonte editorial normalizada"
+"autores_distintos","176","contagem por nome em campo autor"
+"contextos_nacionais_codificados","20","codificação do contexto empírico, não afiliação institucional"
+"doi_com_titulo_crossref_compativel","97","Crossref status 200 e similaridade de título >= 0,72"

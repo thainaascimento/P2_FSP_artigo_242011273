@@ -1,0 +1,207 @@
+$graph
+IGRAPH 2e3c2ad UN-- 11 44 -- 
++ attr: alpha (g/n), ylim (g/n), xlim (g/n), rescale (g/l), asp (g/n),
+| layout (g/n), main (g/c), name (v/c), deg (v/n), size (v/n),
+| label.cex (v/n), color (v/c), community (v/n), labelsize (v/n),
+| label.dist (v/n), frame.color (v/c), label.color (v/c), label.font
+| (v/n), label (v/c), num (e/n), width (e/n), color (e/c), lty (e/n),
+| curved (e/l)
++ edges from 2e3c2ad (vertex names):
+[1] transferências intergovernamentais--despesa pública local           
+[2] transferências intergovernamentais--receita própria e esforço fiscal
+[3] transferências intergovernamentais--efeito flypaper                 
++ ... omitted several edges
+
+$graph_pajek
+IGRAPH c78a895 UNW- 11 44 -- 
++ attr: name (v/c), deg (v/n), size (v/n), label.cex (v/n), id (v/c),
+| num (e/n), weight (e/n)
++ edges from c78a895 (vertex names):
+[1] transferências intergovernamentais--despesa pública local                
+[2] transferências intergovernamentais--receita própria e esforço fiscal     
+[3] transferências intergovernamentais--efeito flypaper                      
+[4] transferências intergovernamentais--atividade econômica e desenvolvimento
+[5] transferências intergovernamentais--china                                
+[6] transferências intergovernamentais--brasil                               
+[7] transferências intergovernamentais--equalização fiscal                   
++ ... omitted several edges
+
+$cluster_obj
+IGRAPH clustering walktrap, groups: 2, mod: 0.022
++ groups:
+  $`1`
+  [1] "transferências intergovernamentais"   
+  [2] "despesa pública local"                
+  [3] "receita própria e esforço fiscal"     
+  [4] "atividade econômica e desenvolvimento"
+  [5] "china"                                
+  [6] "equalização fiscal"                   
+  [7] "federalismo e descentralização fiscal"
+  [8] "identificação e métodos causais"      
+  
+  + ... omitted several groups/vertices
+
+$cluster_res
+                                  vertex cluster btw_centrality clos_centrality
+1     transferências intergovernamentais       1      2.2166667      0.10000000
+2                  despesa pública local       1      2.2166667      0.10000000
+3       receita própria e esforço fiscal       1      2.2166667      0.10000000
+5  atividade econômica e desenvolvimento       1      2.2166667      0.10000000
+6                                  china       1      0.1666667      0.07142857
+8                     equalização fiscal       1      0.3666667      0.07692308
+9  federalismo e descentralização fiscal       1      0.1666667      0.07142857
+11       identificação e métodos causais       1      0.7333333      0.08333333
+4                        efeito flypaper       2      0.5333333      0.08333333
+7                                 brasil       2      0.1666667      0.07692308
+10                         ilusão fiscal       2      0.0000000      0.07142857
+   pagerank_centrality
+1           0.11101429
+2           0.11101429
+3           0.11101429
+5           0.11101429
+6           0.07126000
+8           0.08074355
+9           0.07111203
+11          0.09068835
+4           0.09064961
+7           0.08067974
+10          0.07080957
+
+$community_obj
+IGRAPH clustering walktrap, groups: 2, mod: 0.022
++ groups:
+  $`1`
+  [1] "transferências intergovernamentais"   
+  [2] "despesa pública local"                
+  [3] "receita própria e esforço fiscal"     
+  [4] "atividade econômica e desenvolvimento"
+  [5] "china"                                
+  [6] "equalização fiscal"                   
+  [7] "federalismo e descentralização fiscal"
+  [8] "identificação e métodos causais"      
+  
+  + ... omitted several groups/vertices
+
+$layout
+             [,1]        [,2]
+ [1,]  0.04386413  0.02918932
+ [2,] -0.83239988  0.14388953
+ [3,]  0.60585064  0.35029779
+ [4,] -0.05620166 -0.78127606
+ [5,] -0.20946617  0.47338344
+ [6,] -0.16281010  1.00000000
+ [7,]  0.80267188 -0.79068268
+ [8,]  0.88212850  0.77100781
+ [9,] -1.00000000  0.83666048
+[10,] -0.78480282 -1.00000000
+[11,]  1.00000000  0.03604792
+
+$S
+11 x 11 sparse Matrix of class "dsCMatrix"
+  [[ suppressing 11 column names ‘transferências intergovernamentais’, ‘despesa pública local’, ‘receita própria e esforço fiscal’ ... ]]
+                                                                         
+transferências intergovernamentais    0.014285714 0.011051213 0.010902256
+despesa pública local                 0.011051213 0.018867925 0.011420060
+receita própria e esforço fiscal      0.010902256 0.011420060 0.026315789
+efeito flypaper                       0.011520737 0.012781497 0.010186757
+atividade econômica e desenvolvimento 0.010989011 0.007982583 0.009109312
+china                                 0.006857143 0.012075472 0.009473684
+brasil                                0.013333333 0.008805031 0.012280702
+equalização fiscal                    0.013095238 0.004716981 0.019736842
+federalismo e descentralização fiscal 0.003571429 0.006289308 0.004385965
+ilusão fiscal                         0.012987013 0.017152659 0.009569378
+identificação e métodos causais       0.011428571 0.005660377 0.013157895
+                                                                         
+transferências intergovernamentais    0.011520737 0.010989011 0.006857143
+despesa pública local                 0.012781497 0.007982583 0.012075472
+receita própria e esforço fiscal      0.010186757 0.009109312 0.009473684
+efeito flypaper                       0.032258065 0.007444169 .          
+atividade econômica e desenvolvimento 0.007444169 0.038461538 0.010769231
+china                                 .           0.010769231 0.040000000
+brasil                                0.012903226 0.015384615 .          
+equalização fiscal                    0.002688172 0.012820513 0.020000000
+federalismo e descentralização fiscal .           0.012820513 0.023333333
+ilusão fiscal                         0.017595308 0.003496503 .          
+identificação e métodos causais       0.019354839 0.007692308 .          
+                                                                         
+transferências intergovernamentais    0.013333333 0.013095238 0.003571429
+despesa pública local                 0.008805031 0.004716981 0.006289308
+receita própria e esforço fiscal      0.012280702 0.019736842 0.004385965
+efeito flypaper                       0.012903226 0.002688172 .          
+atividade econômica e desenvolvimento 0.015384615 0.012820513 0.012820513
+china                                 .           0.020000000 0.023333333
+brasil                                0.066666667 .           .          
+equalização fiscal                    .           0.083333333 .          
+federalismo e descentralização fiscal .           .           0.083333333
+ilusão fiscal                         0.012121212 .           .          
+identificação e métodos causais       0.020000000 0.008333333 0.008333333
+                                                             
+transferências intergovernamentais    0.012987013 0.011428571
+despesa pública local                 0.017152659 0.005660377
+receita própria e esforço fiscal      0.009569378 0.013157895
+efeito flypaper                       0.017595308 0.019354839
+atividade econômica e desenvolvimento 0.003496503 0.007692308
+china                                 .           .          
+brasil                                0.012121212 0.020000000
+equalização fiscal                    .           0.008333333
+federalismo e descentralização fiscal .           0.008333333
+ilusão fiscal                         0.090909091 .          
+identificação e métodos causais       .           0.100000000
+
+$nodeDegree
+                                                                       node
+transferências intergovernamentais       transferências intergovernamentais
+despesa pública local                                 despesa pública local
+receita própria e esforço fiscal           receita própria e esforço fiscal
+efeito flypaper                                             efeito flypaper
+atividade econômica e desenvolvimento atividade econômica e desenvolvimento
+china                                                                 china
+brasil                                                               brasil
+equalização fiscal                                       equalização fiscal
+ilusão fiscal                                                 ilusão fiscal
+identificação e métodos causais             identificação e métodos causais
+federalismo e descentralização fiscal federalismo e descentralização fiscal
+                                         degree
+transferências intergovernamentais    1.0000000
+despesa pública local                 0.7827476
+receita própria e esforço fiscal      0.5910543
+efeito flypaper                       0.4632588
+atividade econômica e desenvolvimento 0.3897764
+china                                 0.3418530
+brasil                                0.2396166
+equalização fiscal                    0.1884984
+ilusão fiscal                         0.1757188
+identificação e métodos causais       0.1565495
+federalismo e descentralização fiscal 0.1437700
+
+$modularity
+[1] 0.02246901
+
+$params
+                params                                      values
+1            normalize                                 association
+2                    n                                          11
+3                Title Coocorrência de palavras-chave harmonizadas
+4                 type                                 fruchterman
+5                label                                        TRUE
+6            labelsize                                        0.75
+7            label.cex                                       FALSE
+8          label.color                                       FALSE
+9              label.n                                          20
+10                halo                                       FALSE
+11             cluster                                    walktrap
+12 community.repulsion                                         0.5
+13                size                                           3
+14            size.cex                                       FALSE
+15              curved                                       FALSE
+16             noloops                                        TRUE
+17     remove.multiple                                        TRUE
+18     remove.isolates                                        TRUE
+19            edgesize                                           1
+20           edges.min                                           1
+21               alpha                                         0.5
+22             verbose                                       FALSE
+
+null device 
+          1 
+bibliometrix 5.5.0 | N= 95 | years= 1981 - 2026 | journals= 52 | authors= 173 

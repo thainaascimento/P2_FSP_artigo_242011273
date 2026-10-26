@@ -1,0 +1,10 @@
+﻿unidade,associacao,variavel_x,variavel_y,pearson_r_descritivo,n,aviso
+Cascavel/PR,níveis anuais,transfer_pc_usd_2025,despesa_pc_usd_2025,0.9399839432573085,10,Exploratória; séries anuais curtas e tendências comuns; não é teste causal nem significância inferencial.
+Cascavel/PR,níveis anuais,transfer_pc_usd_2025,own_pc_real,0.9214107147116763,10,Exploratória; séries anuais curtas e tendências comuns; não é teste causal nem significância inferencial.
+Cascavel/PR,primeiras diferenças anuais,transfer_pc_usd_2025_d,despesa_pc_usd_2025_d,0.1395830733044854,9,"Exploratória, n pequeno; diferenças não eliminam endogeneidade nem identificam causalidade."
+Londrina/PR,níveis anuais,transfer_pc_usd_2025,despesa_pc_usd_2025,0.9145595570563859,10,Exploratória; séries anuais curtas e tendências comuns; não é teste causal nem significância inferencial.
+Londrina/PR,níveis anuais,transfer_pc_usd_2025,own_pc_real,0.8759487923917011,10,Exploratória; séries anuais curtas e tendências comuns; não é teste causal nem significância inferencial.
+Londrina/PR,primeiras diferenças anuais,transfer_pc_usd_2025_d,despesa_pc_usd_2025_d,0.06703996688585614,9,"Exploratória, n pequeno; diferenças não eliminam endogeneidade nem identificam causalidade."
+China — agregado local,níveis anuais,transfer_pc_usd_2025,despesa_pc_usd_2025,0.9564409047673694,10,Exploratória; séries anuais curtas e tendências comuns; não é teste causal nem significância inferencial.
+China — agregado local,níveis anuais,transfer_pc_usd_2025,own_pc_real,0.8559874638426801,10,Exploratória; séries anuais curtas e tendências comuns; não é teste causal nem significância inferencial.
+China — agregado local,primeiras diferenças anuais,transfer_pc_usd_2025_d,despesa_pc_usd_2025_d,0.3663809004595532,9,"Exploratória, n pequeno; diferenças não eliminam endogeneidade nem identificam causalidade."

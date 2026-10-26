@@ -1,0 +1,2838 @@
+{
+  "retrieval_date": "2026-10-23",
+  "retrieval_sources": [
+    "corpus_completo_cruzado.json"
+  ],
+  "candidate_count": 101,
+  "verified_count": 97,
+  "excluded_or_review_count": 4,
+  "papers": [
+    {
+      "authors": [
+        "Carlos A. Longo"
+      ],
+      "year": 1981,
+      "title": "A Note On Local Tax Revenues: the Case of Brazilian Municipalities",
+      "journal": "Public Finance Quarterly",
+      "doi": "10.1177/109114218100900306",
+      "editorial_url": "https://journals.sagepub.com/doi/10.1177/109114218100900306",
+      "finding": "Argumenta que a dependência de tributos indiretos e transferências, relativamente à exploração da base tributária local, reduz o esforço fiscal; maior uso do imposto sobre propriedade poderia elevar a autonomia municipal.",
+      "relevance": "Artigo seminal que relaciona arrecadação tributária municipal própria, dependência de transferências e autonomia fiscal.",
+      "origin_file": "brazil_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "A Note On Local Tax Revenues: the Case of Brazilian Municipalities",
+      "crossref_year": 1981,
+      "crossref_journal": "Public Finance Quarterly",
+      "crossref_authors": [
+        "Carlos A. Longo"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 1
+    },
+    {
+      "authors": [
+        "Bruce W. Hamilton"
+      ],
+      "year": 1983,
+      "title": "The flypaper effect and other anomalies",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/0047-2727(83)90040-3",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/0047272783900403",
+      "finding": "O modelo mostra que o efeito observado pode surgir, ao menos em parte, porque a renda própria substitui insumos comprados na produção de serviços públicos locais, enquanto transferências não o fazem; assim, a propensão a gastar a transferência em insumos é maior.",
+      "relevance": "Artigo teórico clássico que analisa por que transferências irrestritas podem aumentar mais o gasto local do que a renda própria dos residentes.",
+      "origin_file": "flypaper_classic",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The flypaper effect and other anomalies",
+      "crossref_year": 1983,
+      "crossref_journal": "Journal of Public Economics",
+      "crossref_authors": [
+        "Bruce W. Hamilton"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 2
+    },
+    {
+      "authors": [
+        "Daniel Hewitt"
+      ],
+      "year": 1986,
+      "title": "Fiscal Illusion from Grants and the Level of State and Federal Expenditures",
+      "journal": "National Tax Journal",
+      "doi": "10.1086/ntj41788627",
+      "editorial_url": "https://www.journals.uchicago.edu/doi/abs/10.1086/NTJ41788627",
+      "finding": "Usando dados de pesquisa sobre a demanda por gastos estaduais, o estudo confirma a hipótese de que transferências a localidades podem elevar impostos do governo doador sem ampliar serviços diretos percebidos; essa ilusão ajuda a explicar menor demanda por certos gastos estaduais, inclusive defesa.",
+      "relevance": "Examina como transferências a governos locais podem ser percebidas como custo ou ineficiência dos níveis estadual e federal que as financiam, conectando receitas transferidas à demanda por serviços públicos.",
+      "origin_file": "fiscal_illusion",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "FISCAL ILLUSION FROM GRANTS AND THE LEVEL OF STATE AND FEDERAL EXPENDITURES",
+      "crossref_year": 1986,
+      "crossref_journal": "National Tax Journal",
+      "crossref_authors": [
+        "DANIEL HEWITT"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 3
+    },
+    {
+      "authors": [
+        "Jonathan H. Hamilton"
+      ],
+      "year": 1986,
+      "title": "The flypaper effect and the deadweight loss from taxation",
+      "journal": "Journal of Urban Economics",
+      "doi": "10.1016/0094-1190(86)90036-7",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/0094119086900367",
+      "finding": "O artigo demonstra que a diferença entre o impacto de transferências e de renda privada sobre o gasto público é compatível com a maximização da utilidade do consumidor representativo quando o peso morto marginal da tributação aumenta.",
+      "relevance": "Apresenta uma explicação teórica do efeito flypaper por custos marginais crescentes de arrecadação, sem depender de comportamento burocrático estratégico ou de percepções erradas dos eleitores.",
+      "origin_file": "flypaper_classic",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The flypaper effect and the deadweight loss from taxation",
+      "crossref_year": 1986,
+      "crossref_journal": "Journal of Urban Economics",
+      "crossref_authors": [
+        "Jonathan H. Hamilton"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 4
+    },
+    {
+      "authors": [
+        "Mark Schneider",
+        "Byung Moon Ji"
+      ],
+      "year": 1987,
+      "title": "The flypaper effect and competition in the local market for public goods",
+      "journal": "Public Choice",
+      "doi": "10.1007/bf00123803",
+      "editorial_url": "https://link.springer.com/article/10.1007/BF00123803",
+      "finding": "A análise empírica relaciona a variação do efeito flypaper à concorrência local por bens públicos e conclui que a concorrência não o limita de forma consistente.",
+      "relevance": "Testa a interpretação de que a concorrência entre governos locais limita a capacidade burocrática de controlar recursos de transferências.",
+      "origin_file": "flypaper_classic",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The flypaper effect and competition in the local market for public goods",
+      "crossref_year": 1987,
+      "crossref_journal": "Public Choice",
+      "crossref_authors": [
+        "Mark Schneider",
+        "Byung Moon Ji"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 5
+    },
+    {
+      "authors": [
+        "Paul Gary Wyckoff"
+      ],
+      "year": 1988,
+      "title": "A bureaucratic theory of flypaper effects",
+      "journal": "Journal of Urban Economics",
+      "doi": "10.1016/0094-1190(88)90009-5",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/0094119088900095",
+      "finding": "Em uma amostra de 115 pequenos governos de Michigan, o modelo burocrático explica bem as despesas de capital, enquanto as despesas operacionais parecem mais bem explicadas pelo modelo padrão do eleitor mediano.",
+      "relevance": "Formula e testa uma explicação burocrática para a tendência de ajuda intergovernamental de montante fixo ser direcionada a despesas em vez de reduções tributárias locais.",
+      "origin_file": "flypaper_classic",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "A bureaucratic theory of flypaper effects",
+      "crossref_year": 1988,
+      "crossref_journal": "Journal of Urban Economics",
+      "crossref_authors": [
+        "Paul Gary Wyckoff"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 6
+    },
+    {
+      "authors": [
+        "Philip J. Grossman"
+      ],
+      "year": 1990,
+      "title": "The Impact of Federal and State Grants on Local Government Spending: a Test of the Fiscal Illusion Hypothesis",
+      "journal": "Public Finance Quarterly",
+      "doi": "10.1177/109114219001800304",
+      "editorial_url": "https://journals.sagepub.com/doi/10.1177/109114219001800304",
+      "finding": "Com dados de 136 condados e cidades da Virgínia, encontrou apoio à hipótese: transferências federais incondicionais tinham efeito estimulante pelo menos duas vezes maior que transferências estaduais incondicionais.",
+      "relevance": "Teste direto de se a separação entre a autoridade que arrecada e a que gasta torna as transferências federais mais estimulantes que as estaduais para os gastos municipais.",
+      "origin_file": "fiscal_illusion",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The Impact of Federal and State Grants on Local Government Spending: a Test of the Fiscal Illusion Hypothesis",
+      "crossref_year": 1990,
+      "crossref_journal": "Public Finance Quarterly",
+      "crossref_authors": [
+        "Philip J. Grossman"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 7
+    },
+    {
+      "authors": [
+        "Paul Gary Wyckoff"
+      ],
+      "year": 1991,
+      "title": "The elusive flypaper effect",
+      "journal": "Journal of Urban Economics",
+      "doi": "10.1016/0094-1190(91)90052-9",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/0094119091900529",
+      "finding": "Nenhuma das quatro explicações testadas foi confirmada nos dados; o autor sugere que a origem do efeito pode estar mais profundamente ligada ao processo local de decisão.",
+      "relevance": "Examina criticamente quatro explicações conhecidas usando dados de distritos escolares de Michigan, contribuindo para o debate sobre identificação e explicações concorrentes.",
+      "origin_file": "flypaper_reviews",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The elusive flypaper effect",
+      "crossref_year": 1991,
+      "crossref_journal": "Journal of Urban Economics",
+      "crossref_authors": [
+        "Paul Gary Wyckoff"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 8
+    },
+    {
+      "authors": [
+        "Geoffrey K. Turnbull"
+      ],
+      "year": 1992,
+      "title": "Fiscal illusion, uncertainty, and the flypaper effect",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/0047-2727(92)90027-d",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/004727279290027D",
+      "finding": "O artigo analisa como diferentes fontes de incerteza e informação imperfeita afetam planos de impostos e despesas e alteram as previsões da teoria da demanda por gasto público.",
+      "relevance": "Desenvolve uma explicação teórica para a assimetria entre transferências e renda baseada na incerteza dos eleitores, em vez de supor que eles confundem sistematicamente preços tributários médios e marginais.",
+      "origin_file": "flypaper_classic",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal illusion, uncertainty, and the flypaper effect",
+      "crossref_year": 1992,
+      "crossref_journal": "Journal of Public Economics",
+      "crossref_authors": [
+        "Geoffrey K. Turnbull"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 9
+    },
+    {
+      "authors": [
+        "Jean C. Oi"
+      ],
+      "year": 1992,
+      "title": "Fiscal Reform and the Economic Foundations of Local State Corporatism in China",
+      "journal": "World Politics",
+      "doi": "10.2307/2010520",
+      "editorial_url": "https://www.cambridge.org/core/journals/world-politics/article/fiscal-reform-and-the-economic-foundations-of-local-state-corporatism-in-china/83181E925067A78864FFA7118EEDC6F6",
+      "finding": "A autora conclui que a reforma fiscal dos anos 1980 fortaleceu incentivos e capacidade locais para perseguir crescimento industrial; governos locais passaram a gerir empresas coletivas rurais de modo semelhante a conglomerados diversificados e a realocar receitas da produção.",
+      "relevance": "Analisa como a reforma fiscal estruturou os incentivos e a capacidade de localidades chinesas para administrar empresas coletivas rurais e impulsionar a industrialização.",
+      "origin_file": "china_institutions",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal Reform and the Economic Foundations of Local State Corporatism in China",
+      "crossref_year": 1992,
+      "crossref_journal": "World Politics",
+      "crossref_authors": [
+        "Jean C. Oi"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 10
+    },
+    {
+      "authors": [
+        "Gabriella Montinola",
+        "Yingyi Qian",
+        "Barry R. Weingast"
+      ],
+      "year": 1995,
+      "title": "Federalism, Chinese Style: The Political Basis for Economic Success in China",
+      "journal": "World Politics",
+      "doi": "10.1353/wp.1995.0003",
+      "editorial_url": "https://www.cambridge.org/core/journals/world-politics/article/federalism-chinese-style-the-political-basis-for-economic-success-in-china/6F839D520DAE1BCB2721B36BA5E34396",
+      "finding": "O artigo argumenta que a descentralização institucionalizada cria competição entre governos locais, incentiva experimentação e promoção da economia local e limita a intrusão política central, sustentando o compromisso com mercados.",
+      "relevance": "Formula a explicação institucional do federalismo chinês, incluindo competição interjurisdicional, autonomia descentralizada e incentivos de governos locais para promover prosperidade.",
+      "origin_file": "china_institutions",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Federalism, Chinese Style: The Political Basis for Economic Success in China",
+      "crossref_year": 1995,
+      "crossref_journal": "World Politics",
+      "crossref_authors": [
+        "Gabriella Montinola",
+        "Yingyi Qian",
+        "Barry R. Weingast"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 11
+    },
+    {
+      "authors": [
+        "James R. Hines Jr.",
+        "Richard H. Thaler"
+      ],
+      "year": 1995,
+      "title": "The Flypaper Effect",
+      "journal": "Journal of Economic Perspectives",
+      "doi": "10.1257/jep.9.4.217",
+      "editorial_url": "https://pubs.aeaweb.org/doi/10.1257/jep.9.4.217",
+      "finding": "Os autores contrastam a previsão teórica de aumentos de gasto de cerca de 5–10% com evidências empíricas de respostas muito maiores, algumas próximas de 100%, e revisam explicações propostas para essa diferença.",
+      "relevance": "Revisão influente que define e sintetiza a anomalia empírica central: transferências irrestritas parecem elevar o gasto mais do que aumentos equivalentes na renda local.",
+      "origin_file": "flypaper_classic",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Anomalies: The Flypaper Effect",
+      "crossref_year": 1995,
+      "crossref_journal": "Journal of Economic Perspectives",
+      "crossref_authors": [
+        "James R Hines",
+        "Richard H Thaler"
+      ],
+      "title_similarity": 0.7916666666666666,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 12
+    },
+    {
+      "authors": [
+        "Geoffrey Brennan",
+        "J. J. Pincus"
+      ],
+      "year": 1996,
+      "title": "A minimalist model of federal grants and flypaper effects",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/0047-2727(95)01543-4",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/0047272795015434",
+      "finding": "O modelo demonstra que efeitos flypaper aparentes podem surgir mesmo sem definidores de agenda, ciclos de votação, assimetria informacional ou outras explicações usuais; o sinal e a magnitude dependem da origem da variação nas transferências.",
+      "relevance": "Modelo teórico que destaca como endogeneidade das transferências pode produzir respostas aparentes do tipo flypaper, aspecto central para interpretar estimativas empíricas.",
+      "origin_file": "flypaper_reviews",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "A minimalist model of federal grants and flypaper effects",
+      "crossref_year": 1996,
+      "crossref_journal": "Journal of Public Economics",
+      "crossref_authors": [
+        "G Brennan",
+        "J.J Pincus"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 13
+    },
+    {
+      "authors": [
+        "Elizabeth Becker"
+      ],
+      "year": 1996,
+      "title": "The illusion of fiscal illusion: Unsticking the flypaper effect",
+      "journal": "Public Choice",
+      "doi": "10.1007/bf00114876",
+      "editorial_url": "https://link.springer.com/article/10.1007/BF00114876",
+      "finding": "A revisão de estudos e simulação de Monte Carlo mostram que especificações funcionais inadequadas podem criar um efeito flypaper espúrio; na especificação que melhor se ajusta aos dados estaduais analisados, não há evidência estatística do efeito.",
+      "relevance": "Apresenta um contraponto metodológico importante à interpretação de que transferências parecem menos custosas aos eleitores e por isso ficam nos orçamentos locais (flypaper effect).",
+      "origin_file": "fiscal_illusion",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The illusion of fiscal illusion: Unsticking the flypaper effect",
+      "crossref_year": 1996,
+      "crossref_journal": "Public Choice",
+      "crossref_authors": [
+        "Elizabeth Becker"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 14
+    },
+    {
+      "authors": [
+        "Lasse Oulasvirta"
+      ],
+      "year": 1997,
+      "title": "Real and perceived effects of changing the grant system from specific to general grants",
+      "journal": "Public Choice",
+      "doi": "10.1023/a:1004987824891",
+      "editorial_url": "https://link.springer.com/article/10.1023/A:1004987824891",
+      "finding": "A análise da reforma finlandesa de 1993 confirma flypaper effect e encontra efeito estimulante maior para grants vinculados e com contrapartida que para grants gerais sem contrapartida; entrevistados também perceberam mudança na distribuição de poder, por vezes prejudicial a grupos locais menores.",
+      "relevance": "Relaciona diretamente os efeitos fiscais observados de transferências vinculadas e gerais às percepções dos atores locais após uma reforma do sistema de grants finlandês.",
+      "origin_file": "fiscal_illusion",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Real and perceived effects of changing the grant system from specific to general grants",
+      "crossref_year": 1997,
+      "crossref_journal": "Public Choice",
+      "crossref_authors": [
+        "Lasse Oulasvirta"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 15
+    },
+    {
+      "authors": [
+        "Tao Zhang",
+        "Heng-fu Zou"
+      ],
+      "year": 1998,
+      "title": "Fiscal decentralization, public spending, and economic growth in China",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/s0047-2727(97)00057-1",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/S0047272797000571",
+      "finding": "Os autores encontram que maior descentralização das despesas governamentais está associada a menor crescimento econômico provincial no período estudado, resultado robusto que contrasta com a expectativa teórica convencional de efeito positivo.",
+      "relevance": "É um teste empírico clássico da relação entre repartição fiscal centro-local, gasto público e crescimento provincial na China reformista.",
+      "origin_file": "china_institutions",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal decentralization, public spending, and economic growth in China",
+      "crossref_year": 1998,
+      "crossref_journal": "Journal of Public Economics",
+      "crossref_authors": [
+        "Tao Zhang",
+        "Heng-fu Zou"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 16
+    },
+    {
+      "authors": [
+        "Stephen J. Bailey",
+        "Stephen Connolly"
+      ],
+      "year": 1998,
+      "title": "The flypaper effect: Identifying areas for further research",
+      "journal": "Public Choice",
+      "doi": "10.1023/a:1005053921709",
+      "editorial_url": "https://link.springer.com/article/10.1023/A:1005053921709",
+      "finding": "Os autores consideram que a abordagem dominante trouxe avanços analíticos importantes no início, mas que estudos posteriores contribuíram apenas marginalmente para explicar o fenômeno — se ele de fato existe — e propõem novas linhas de pesquisa.",
+      "relevance": "Revisão abrangente que situa a trajetória teórica e empírica da pesquisa e avalia o que as explicações neoclássicas e de escolha pública conseguiram esclarecer.",
+      "origin_file": "flypaper_classic",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The flypaper effect: Identifying areas for further research",
+      "crossref_year": 1998,
+      "crossref_journal": "Public Choice",
+      "crossref_authors": [
+        "Stephen J. Bailey",
+        "Stephen Connolly"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 17
+    },
+    {
+      "authors": [
+        "Geoffrey K. Turnbull"
+      ],
+      "year": 1998,
+      "title": "The Overspending and Flypaper Effects of Fiscal Illusion: Theory and Empirical Evidence",
+      "journal": "Journal of Urban Economics",
+      "doi": "10.1006/juec.1997.2056",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/S0094119097920568",
+      "finding": "O modelo mostra que diferentes tipos de informação imperfeita alteram de maneiras distintas as previsões de sobre-gasto e flypaper; um estudo empírico de despesas municipais oferece apoio a essa concepção ampliada de ilusão fiscal.",
+      "relevance": "Amplia a ilusão fiscal para informação imperfeita sobre quanto os eleitores pagam por serviços adicionais e sobre o retorno em serviços associado a impostos maiores.",
+      "origin_file": "fiscal_illusion",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The Overspending and Flypaper Effects of Fiscal Illusion: Theory and Empirical Evidence",
+      "crossref_year": 1998,
+      "crossref_journal": "Journal of Urban Economics",
+      "crossref_authors": [
+        "Geoffrey K. Turnbull"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 18
+    },
+    {
+      "authors": [
+        "Wallace E. Oates"
+      ],
+      "year": 1999,
+      "title": "An Essay on Fiscal Federalism",
+      "journal": "Journal of Economic Literature",
+      "doi": "10.1257/jel.37.3.1120",
+      "editorial_url": "https://www.aeaweb.org/articles?id=10.1257/jel.37.3.1120",
+      "finding": "A síntese destaca que o federalismo fiscal depende da atribuição adequada de responsabilidades e instrumentos; a descentralização pode gerar ganhos de bem-estar, mas seus efeitos variam com a estrutura institucional e os problemas de coordenação.",
+      "relevance": "Artigo-síntese fundamental sobre atribuição de funções, ganhos potenciais da descentralização fiscal e instrumentos de política entre níveis de governo.",
+      "origin_file": "fiscal_federalism",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "An Essay on Fiscal Federalism",
+      "crossref_year": 1999,
+      "crossref_journal": "Journal of Economic Literature",
+      "crossref_authors": [
+        "Wallace E Oates"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 19
+    },
+    {
+      "authors": [
+        "Andrew C. Worthington",
+        "Brian E. Dollery"
+      ],
+      "year": 1999,
+      "title": "Fiscal illusion and the Australian local government grants process: How sticky is the flypaper effect?",
+      "journal": "Public Choice",
+      "doi": "10.1023/a:1018329802757",
+      "editorial_url": "https://link.springer.com/article/10.1023/A:1018329802757",
+      "finding": "Os resultados mostram que a estimativa do flypaper effect é sensível à especificação; a forma funcional favorecida pelos testes de ajuste não encontra evidência de flypaper effect no contexto institucional australiano.",
+      "relevance": "Investiga se a resposta de gastos locais a grants na Austrália representa percepção fiscal distorcida ou resulta de escolhas de especificação e das regras institucionais do sistema de transferências.",
+      "origin_file": "fiscal_illusion",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal illusion and the Australian local government grants process: How sticky is the flypaper effect?",
+      "crossref_year": 1999,
+      "crossref_journal": "Public Choice",
+      "crossref_authors": [
+        "Andrew C. Worthington",
+        "Brian E. Dollery"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 20
+    },
+    {
+      "authors": [
+        "Peter M. Mitias",
+        "Geoffrey K. Turnbull"
+      ],
+      "year": 2001,
+      "title": "Grant Illusion, Tax Illusion, and Local Government Spending",
+      "journal": "Public Finance Review",
+      "doi": "10.1177/109114210102900501",
+      "editorial_url": "https://journals.sagepub.com/doi/10.1177/109114210102900501",
+      "finding": "Demonstra que grant illusion e tax illusion, antes tratadas como explicações alternativas, são interdependentes; as estimativas para condados indicam que os gastos respondem à forma tradicional de grant illusion, e não à tax illusion.",
+      "relevance": "Distingue percepções equivocadas sobre grants das percepções sobre tributos locais e avalia empiricamente qual delas se relaciona aos gastos locais.",
+      "origin_file": "fiscal_illusion",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Grant Illusion, Tax Illusion, and Local Government Spending",
+      "crossref_year": 2001,
+      "crossref_journal": "Public Finance Review",
+      "crossref_authors": [
+        "Peter M. Mitias",
+        "Geoffrey K. Turnbull"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 21
+    },
+    {
+      "authors": [
+        "Christian Baretti, Bernd Huber e Karl Lichtblau"
+      ],
+      "year": 2002,
+      "title": "A Tax on Tax Revenue: The Incentive Effects of Equalizing Transfers: Evidence from Germany",
+      "journal": "International Tax and Public Finance",
+      "doi": "10.1023/a:1020925812428",
+      "editorial_url": "https://link.springer.com/article/10.1023/A:1020925812428",
+      "finding": "Os testes empíricos confirmam a hipótese de que efeitos substituição e renda associados às transferências equalizadoras tendem a reduzir a receita tributária dos estados alemães.",
+      "relevance": "Estuda como transferências equalizadoras afetam incentivos para arrecadar receita tributária própria; a unidade empírica são os estados alemães, não municípios.",
+      "origin_file": "local_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "A Tax on Tax Revenue: The Incentive Effects of Equalizing Transfers: Evidence from Germany",
+      "crossref_year": 2002,
+      "crossref_journal": "International Tax and Public Finance",
+      "crossref_authors": [
+        "Christian Baretti",
+        "Bernd Huber",
+        "Karl Lichtblau"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 22
+    },
+    {
+      "authors": [
+        "Jonathan Rodden"
+      ],
+      "year": 2002,
+      "title": "The Dilemma of Fiscal Federalism: Grants and Fiscal Performance around the World",
+      "journal": "American Journal of Political Science",
+      "doi": "10.2307/3088407",
+      "editorial_url": "https://api.crossref.org/works/10.2307/3088407",
+      "finding": "Com dados comparativos internacionais, o artigo conclui que os maiores déficits subnacionais persistentes ocorrem quando governos dependem de transferências e podem se endividar livremente; limites ao crédito ou maior autonomia de receita estão associados a maior disciplina fiscal.",
+      "relevance": "Analisa como dependência de transferências e autonomia para tomar empréstimos interagem no desenho das relações fiscais intergovernamentais.",
+      "origin_file": "fiscal_federalism",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The Dilemma of Fiscal Federalism: Grants and Fiscal Performance around the World",
+      "crossref_year": 2002,
+      "crossref_journal": "American Journal of Political Science",
+      "crossref_authors": [
+        "Jonathan Rodden"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 23
+    },
+    {
+      "authors": [
+        "Per Tovmo",
+        "Torberg Falch"
+      ],
+      "year": 2002,
+      "title": "The flypaper effect and political strength",
+      "journal": "Economics of Governance",
+      "doi": "10.1007/s101010100036",
+      "editorial_url": "https://link.springer.com/article/10.1007/s101010100036",
+      "finding": "Com governos locais noruegueses dos anos 1930, a força política reduziu o flypaper; em conselhos de partido único não se rejeitou ausência do efeito, que foi grande em conselhos fragmentados.",
+      "relevance": "",
+      "origin_file": "comparative_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The flypaper effect and political strength",
+      "crossref_year": 2002,
+      "crossref_journal": "Economics of Governance",
+      "crossref_authors": [
+        "Per Tovmo",
+        "Torberg Falch"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 24
+    },
+    {
+      "authors": [
+        "R. S. Eckaus"
+      ],
+      "year": 2003,
+      "title": "Some consequences of fiscal reliance on extrabudgetary revenues in China",
+      "journal": "China Economic Review",
+      "doi": "10.1016/s1043-951x(03)00002-6",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S1043951X03000026",
+      "finding": "A análise de painel provincial indica que cobranças extraorçamentárias recaem mais sobre setores primários, majoritariamente agrícolas, e associa a dependência dessas cobranças à transformação de saúde e educação em serviços pagos por tarifa, além de ineficiências microeconômicas.",
+      "relevance": "Estuda efeitos econômicos e distributivos da dependência de governos chineses, sobretudo locais, em receitas extraorçamentárias, incluindo taxas e cobranças.",
+      "origin_file": "china_local_finance",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Some consequences of fiscal reliance on extrabudgetary revenues in China",
+      "crossref_year": 2003,
+      "crossref_journal": "China Economic Review",
+      "crossref_authors": [
+        "R.S. ECKAUS"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 25
+    },
+    {
+      "authors": [
+        "Jean-Paul Faguet"
+      ],
+      "year": 2004,
+      "title": "Does decentralization increase government responsiveness to local needs? Evidence from Bolivia",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/s0047-2727(02)00185-8",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/S0047272702001858",
+      "finding": "Após a reforma, os padrões de investimento em educação, água e saneamento e outros serviços mudaram e passaram a acompanhar mais de perto indicadores objetivos de necessidade local; municípios menores e mais pobres direcionaram recursos a prioridades locais.",
+      "relevance": "Estuda como a devolução de recursos e decisões a municípios bolivianos alterou a alocação territorial do investimento público.",
+      "origin_file": "fiscal_federalism",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Does decentralization increase government responsiveness to local needs?",
+      "crossref_year": 2004,
+      "crossref_journal": "Journal of Public Economics",
+      "crossref_authors": [
+        "Jean-Paul Faguet"
+      ],
+      "title_similarity": 0.8658536585365854,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 26
+    },
+    {
+      "authors": [
+        "Ritva Reinikka",
+        "Jakob Svensson"
+      ],
+      "year": 2004,
+      "title": "Local Capture: Evidence from a Central Government Transfer Program in Uganda",
+      "journal": "The Quarterly Journal of Economics",
+      "doi": "10.1162/0033553041382120",
+      "editorial_url": "https://academic.oup.com/qje/article-abstract/119/2/679/1894528",
+      "finding": "As escolas receberam em media apenas 13% dos grants previstos; a maior parte foi capturada por funcionarios e politicos locais. Comunidades mais ricas conseguiram reivindicar parcela maior, tornando regressivo o gasto efetivo apesar da alocacao orcamentaria.",
+      "relevance": "['captura local', 'transferencias condicionadas', 'accountability e vazamento']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Local Capture: Evidence from a Central Government Transfer Program in Uganda",
+      "crossref_year": 2004,
+      "crossref_journal": "The Quarterly Journal of Economics",
+      "crossref_authors": [
+        "R. Reinikka",
+        "J. Svensson"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 27
+    },
+    {
+      "authors": [
+        "Kai-yuen Tsui"
+      ],
+      "year": 2005,
+      "title": "Local tax system, intergovernmental transfers and China's local fiscal disparities",
+      "journal": "Journal of Comparative Economics",
+      "doi": "10.1016/j.jce.2004.11.003",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S014759670400099X",
+      "finding": "A análise dos dados orçamentários dos condados entre 1994 e 2000 não encontra redução sustentada das disparidades fiscais após a reforma de 1994; o estudo atribui papel relevante à estrutura de partilha tributária e às transferências.",
+      "relevance": "Estuda como o sistema local de tributação e as transferências intergovernamentais, após a reforma de partilha de impostos, afetam disparidades fiscais entre condados.",
+      "origin_file": "china_institutions",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Local tax system, intergovernmental transfers and China's local fiscal disparities",
+      "crossref_year": 2005,
+      "crossref_journal": "Journal of Comparative Economics",
+      "crossref_authors": [
+        "Kai-yuen Tsui"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 28
+    },
+    {
+      "authors": [
+        "Hehui Jin",
+        "Yingyi Qian",
+        "Barry R. Weingast"
+      ],
+      "year": 2005,
+      "title": "Regional decentralization and fiscal incentives: Federalism, Chinese style",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/j.jpubeco.2004.11.008",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0047272705000228",
+      "finding": "Com dados provinciais, os autores constatam que a reforma fortaleceu os incentivos fiscais locais; maior retenção marginal de receita está associada a crescimento mais rápido do setor não estatal e a mais reformas em empresas estatais, mesmo controlando a medida convencional de descentralização fiscal.",
+      "relevance": "Analisa diretamente como contratos fiscais e retenção de receita moldaram os incentivos dos governos provinciais chineses para apoiar o desenvolvimento de mercados locais.",
+      "origin_file": "china_institutions",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Regional decentralization and fiscal incentives: Federalism, Chinese style",
+      "crossref_year": 2005,
+      "crossref_journal": "Journal of Public Economics",
+      "crossref_authors": [
+        "Hehui Jin",
+        "Yingyi Qian",
+        "Barry R. Weingast"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 29
+    },
+    {
+      "authors": [
+        "Xiaobo Zhang"
+      ],
+      "year": 2006,
+      "title": "Fiscal decentralization and political centralization in China: Implications for growth and inequality",
+      "journal": "Journal of Comparative Economics",
+      "doi": "10.1016/j.jce.2006.08.006",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0147596706000618",
+      "finding": "O artigo argumenta que regiões com base tributária não agrícola mais ampla conseguem financiar bens públicos e criar melhores condições para investimento; localidades mais agrícolas deixam menos recursos para investimento após custear a burocracia, o que pode ampliar diferenças regionais.",
+      "relevance": "Examina a interação entre descentralização fiscal e hierarquia política centralizada e como diferenças de base tributária condicionam a capacidade de investimento dos governos locais.",
+      "origin_file": "china_institutions",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal decentralization and political centralization in China: Implications for growth and inequality",
+      "crossref_year": 2006,
+      "crossref_journal": "Journal of Comparative Economics",
+      "crossref_authors": [
+        "Xiaobo Zhang"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 30
+    },
+    {
+      "authors": [
+        "Thiess Buettner"
+      ],
+      "year": 2006,
+      "title": "The incentive effect of fiscal equalization transfers on tax policy",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/j.jpubeco.2005.09.004",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0047272705001349",
+      "finding": "A taxa marginal de contribuicao ao sistema de equalizacao tem efeito positivo e significativo sobre a aliquota do imposto empresarial local, enquanto o volume de grants recebidos tem efeito negativo sobre o tax effort. O resultado apoia um efeito de incentivo da formula de equalizacao, e nao apenas um efeito-renda.",
+      "relevance": "['equalizacao fiscal', 'tax effort', 'impostos locais']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The incentive effect of fiscal equalization transfers on tax policy",
+      "crossref_year": 2006,
+      "crossref_journal": "Journal of Public Economics",
+      "crossref_authors": [
+        "Thiess Buettner"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 31
+    },
+    {
+      "authors": [
+        "Hammed Amusa",
+        "Robert Mabunda",
+        "Ramos Mabugu"
+      ],
+      "year": 2008,
+      "title": "Fiscal Illusion at the Local Sphere: An Empirical Test of the Flypaper Effect Using South African Municipal Data",
+      "journal": "South African Journal of Economics",
+      "doi": "10.1111/j.1813-6982.2008.00205.x",
+      "editorial_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1813-6982.2008.00205.x",
+      "finding": "Com dados fiscais e de despesas de 2005/06, os efeitos marginais das receitas próprias municipais sobre despesas superam os das transferências; o artigo não encontra evidência estatística do flypaper effect nesse contexto.",
+      "relevance": "Testa a variante flypaper da hipótese de ilusão fiscal em 237 governos locais sul-africanos fortemente dependentes de transferências intergovernamentais.",
+      "origin_file": "fiscal_illusion",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "FISCAL ILLUSION AT THE LOCAL SPHERE: AN EMPIRICAL TEST OF THE FLYPAPER EFFECT USING SOUTH AFRICAN MUNICIPAL DATA<sup>1</sup>",
+      "crossref_year": 2008,
+      "crossref_journal": "South African Journal of Economics",
+      "crossref_authors": [
+        "Hammed Amusa",
+        "Robert Mabunda",
+        "Ramos Mabugu"
+      ],
+      "title_similarity": 0.9568965517241379,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 32
+    },
+    {
+      "authors": [
+        "Craig S. Maher",
+        "Terri Johnson"
+      ],
+      "year": 2008,
+      "title": "Testing for Fiscal Illusion in Wisconsin Towns",
+      "journal": "International Journal of Public Administration",
+      "doi": "10.1080/01900690701501048",
+      "editorial_url": "https://www.tandfonline.com/doi/abs/10.1080/01900690701501048",
+      "finding": "Com survey de mais de mil membros de conselhos municipais de Wisconsin combinado a dados fiscais e censitários, encontra pouca evidência consistente de manipulação eleitoral da composição das receitas; há indício de preferência por taxas e cobranças entre autoridades que buscam reeleição.",
+      "relevance": "Examina se a estrutura de receitas locais — incluindo grants condicionais e incondicionais, impostos, taxas e dívida — é manipulada em resposta à pressão eleitoral, um mecanismo de percepção e escolha fiscal.",
+      "origin_file": "fiscal_illusion",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Testing for Fiscal Illusion in Wisconsin Towns",
+      "crossref_year": 2008,
+      "crossref_journal": "International Journal of Public Administration",
+      "crossref_authors": [
+        "Craig S. Maher",
+        "Terri Johnson"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 33
+    },
+    {
+      "authors": [
+        "Matz Dahlberg",
+        "Eva Mörk",
+        "Jørn Rattsø",
+        "Hanna Ågren"
+      ],
+      "year": 2008,
+      "title": "Using a discontinuous grant rule to identify the effect of grants on local taxes and spending",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/j.jpubeco.2007.05.004",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/S0047272707000886",
+      "finding": "A regra descontínua é usada como instrumento para estimar os efeitos de transferências gerais; os resultados mostram crowding-in do gasto local, mas não redução das alíquotas tributárias locais.",
+      "relevance": "Estudo empírico de identificação causal que usa uma descontinuidade no sistema sueco de transferências para enfrentar a endogeneidade dos repasses, um problema central nos testes do efeito flypaper.",
+      "origin_file": "flypaper_classic",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Using a discontinuous grant rule to identify the effect of grants on local taxes and spending",
+      "crossref_year": 2008,
+      "crossref_journal": "Journal of Public Economics",
+      "crossref_authors": [
+        "Matz Dahlberg",
+        "Eva Mörk",
+        "Jørn Rattsø",
+        "Hanna Ågren"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 34
+    },
+    {
+      "authors": [
+        "Wiji Arulampalam",
+        "Sugato Dasgupta",
+        "Amrita Dhillon",
+        "Bhaskar Dutta"
+      ],
+      "year": 2009,
+      "title": "Electoral goals and center-state transfers: A theoretical model and empirical evidence from India",
+      "journal": "Journal of Development Economics",
+      "doi": "10.1016/j.jdeveco.2008.01.001",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0304387808000059",
+      "finding": "Estados simultaneamente swing e alinhados ao governo central recebem cerca de 16% mais transferencias que estados nao alinhados e nao swing. O resultado indica que a discricionariedade na alocacao de grants pode responder a incentivos eleitorais do governo central.",
+      "relevance": "['desenho politico de transferencias', 'alinhamento partidario', 'accountability eleitoral']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Electoral goals and center-state transfers: A theoretical model and empirical evidence from India",
+      "crossref_year": 2009,
+      "crossref_journal": "Journal of Development Economics",
+      "crossref_authors": [
+        "Wiji Arulampalam",
+        "Sugato Dasgupta",
+        "Amrita Dhillon",
+        "Bhaskar Dutta"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 35
+    },
+    {
+      "authors": [
+        "Enlinson Mattos",
+        "Fabiana Rocha",
+        "Paulo Arvate"
+      ],
+      "year": 2011,
+      "title": "Flypaper effect revisited: evidence for tax collection efficiency in Brazilian municipalities",
+      "journal": "Estudos Econômicos (São Paulo)",
+      "doi": "10.1590/s0101-41612011000200002",
+      "editorial_url": "https://www.scielo.br/j/ee/a/VYqSZcQbNhnD7N8MZC36gXq/?lang=en",
+      "finding": "Com instrumentos baseados nas regras constitucionais de transferência e métodos 2SLS/Tobit, os autores encontram que transferências incondicionais reduzem a eficiência tributária, ao contrário do efeito da renda, propondo essa resposta como uma dimensão do flypaper.",
+      "relevance": "Estudo municipal brasileiro que reinterpreta o flypaper como resposta das transferências à eficiência de arrecadação tributária local, em comparação com a renda privada.",
+      "origin_file": "brazil_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Flypaper effect revisited: evidence for tax collection efficiency in Brazilian municipalities",
+      "crossref_year": 2011,
+      "crossref_journal": "Estudos Econômicos (São Paulo)",
+      "crossref_authors": [
+        "Enlinson Mattos",
+        "Fabiana Rocha",
+        "Paulo Arvate"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 36
+    },
+    {
+      "authors": [
+        "Yongzheng Liu",
+        "Jianmei Zhao"
+      ],
+      "year": 2011,
+      "title": "Intergovernmental fiscal transfers and local tax efforts: evidence from provinces in China",
+      "journal": "Journal of Economic Policy Reform",
+      "doi": "10.1080/17487870.2011.591175",
+      "editorial_url": "https://www.tandfonline.com/doi/abs/10.1080/17487870.2011.591175",
+      "finding": "Com dados provinciais de 1995–2007, encontra evidência significativa compatível com o efeito negativo previsto de transferências totais e repasses equalizadores sobre o esforço tributário; o efeito das devoluções tributárias é teoricamente ambíguo.",
+      "relevance": "Analisa como transferências centrais — inclusive devoluções tributárias e repasses equalizadores — afetam o esforço arrecadatório das províncias chinesas.",
+      "origin_file": "china_transfers",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Intergovernmental fiscal transfers and local tax efforts: evidence from provinces in China",
+      "crossref_year": 2011,
+      "crossref_journal": "Journal of Economic Policy Reform",
+      "crossref_authors": [
+        "Yongzheng Liu",
+        "Jianmei Zhao"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 37
+    },
+    {
+      "authors": [
+        "Bihong Huang e Kang Chen"
+      ],
+      "year": 2012,
+      "title": "Are intergovernmental transfers in China equalizing?",
+      "journal": "China Economic Review",
+      "doi": "10.1016/j.chieco.2012.01.001",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S1043951X12000028",
+      "finding": "O sistema contém componentes equalizadores: principalmente a redução de devoluções tributárias herdadas e, em menor escala, transferências gerais baseadas em regras. Porém, transferências específicas, a maior parcela do total e frequentemente menos guiadas por regras, têm efeito anti-equalizador; o total das transferências também apresenta efeito anti-equalizador significativo.",
+      "relevance": "Avalia como tipos diferentes de transferências centrais afetam desigualdades fiscais entre governos provinciais, elemento central para o financiamento dos orçamentos locais.",
+      "origin_file": "china_local_finance",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Are intergovernmental transfers in China equalizing?",
+      "crossref_year": 2012,
+      "crossref_journal": "China Economic Review",
+      "crossref_authors": [
+        "Bihong Huang",
+        "Kang Chen"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 38
+    },
+    {
+      "authors": [
+        "Tewodaj Mogues",
+        "Samuel Benin"
+      ],
+      "year": 2012,
+      "title": "Do External Grants to District Governments Discourage Own Revenue Generation? A Look at Local Public Finance Dynamics in Ghana",
+      "journal": "World Development",
+      "doi": "10.1016/j.worlddev.2011.12.001",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0305750X11003044",
+      "finding": "Apesar de um esquema de incentivos embutido em um dos grants, o fluxo agregado de transferencias desestimula a receita gerada localmente, reduzindo tanto seu nivel quanto seu crescimento.",
+      "relevance": "['crowding out de receita', 'incentivos de grants', 'financas distritais']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Do External Grants to District Governments Discourage Own Revenue Generation? A Look at Local Public Finance Dynamics in Ghana",
+      "crossref_year": 2012,
+      "crossref_journal": "World Development",
+      "crossref_authors": [
+        "Tewodaj Mogues",
+        "Samuel Benin"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 39
+    },
+    {
+      "authors": [
+        "Meili Niu"
+      ],
+      "year": 2013,
+      "title": "Fiscal Decentralization in China Revisited (中国财政分权政策再探)",
+      "journal": "Australian Journal of Public Administration",
+      "doi": "10.1111/1467-8500.12026",
+      "editorial_url": "https://onlinelibrary.wiley.com/doi/10.1111/1467-8500.12026",
+      "finding": "A análise conclui que a China é descentralizada no agregado local e no nível provincial, mas não no nível mais baixo de condados/distritos e municípios; a autonomia fiscal provincial diminuiu ligeiramente, enquanto aumentou nos níveis locais e subprovinciais considerados pelo estudo.",
+      "relevance": "Reavalia como medir a descentralização fiscal entre os níveis central, provincial e subprovincial, aspecto institucional necessário para interpretar incentivos e autonomia locais.",
+      "origin_file": "china_institutions",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal Decentralization in China Revisited (中国财政分权政策再探)",
+      "crossref_year": 2013,
+      "crossref_journal": "Australian Journal of Public Administration",
+      "crossref_authors": [
+        "Meili Niu (中国，中山大学)"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 40
+    },
+    {
+      "authors": [
+        "Stefan Brehm"
+      ],
+      "year": 2013,
+      "title": "Fiscal Incentives, Public Spending, and Productivity – County-Level Evidence from a Chinese Province",
+      "journal": "World Development",
+      "doi": "10.1016/j.worlddev.2013.01.029",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0305750X13000351",
+      "finding": "Dados de 1995–2005 indicam que a descentralização tanto da receita quanto da despesa promoveu eficiência alocativa; o efeito dos incentivos fiscais diminui à medida que cresce a desigualdade de renda entre governos de condado.",
+      "relevance": "Investiga como incentivos de descentralização fiscal e decisões de gasto se relacionam com eficiência alocativa em condados de Zhejiang.",
+      "origin_file": "china_local_finance",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal Incentives, Public Spending, and Productivity – County-Level Evidence from a Chinese Province",
+      "crossref_year": 2013,
+      "crossref_journal": "World Development",
+      "crossref_authors": [
+        "Stefan Brehm"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 41
+    },
+    {
+      "authors": [
+        "Jing Vivian Zhan"
+      ],
+      "year": 2013,
+      "title": "Strategy for Fiscal Survival? Analysis of local extra-budgetary finance in China",
+      "journal": "Journal of Contemporary China",
+      "doi": "10.1080/10670564.2012.734077",
+      "editorial_url": "https://www.tandfonline.com/doi/full/10.1080/10670564.2012.734077",
+      "finding": "A análise de dados provinciais conclui que as receitas extraorçamentárias não são explicadas simplesmente por necessidade de sobrevivência fiscal: burocracias locais exploram poderes administrativos para extrair recursos da economia, com incidência desproporcional sobre camponeses; diretivas centrais tiveram pouco efeito sobre as práticas locais.",
+      "relevance": "Analisa diretamente as receitas locais extraorçamentárias e a hipótese de que elas compensam insuficiências de caixa dos governos subnacionais.",
+      "origin_file": "china_local_finance",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Strategy for Fiscal Survival? Analysis of local extra-budgetary finance in China",
+      "crossref_year": 2013,
+      "crossref_journal": "Journal of Contemporary China",
+      "crossref_authors": [
+        "Jing Vivian Zhan"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 42
+    },
+    {
+      "authors": [
+        "Stephan Litschig",
+        "Kevin M. Morrison"
+      ],
+      "year": 2013,
+      "title": "The Impact of Intergovernmental Transfers on Education Outcomes and Poverty Reduction",
+      "journal": "American Economic Journal: Applied Economics",
+      "doi": "10.1257/app.5.4.206",
+      "editorial_url": "https://www.aeaweb.org/articles?id=10.1257/app.5.4.206",
+      "finding": "A descontinuidade na regra de repasses elevou gastos municipais per capita em cerca de 20% por quatro anos, aumentou escolaridade per capita em aproximadamente 7% e alfabetização em quatro pontos percentuais, além de reduzir a pobreza em cerca de quatro pontos percentuais.",
+      "relevance": "Fornece evidência quase experimental dos efeitos de recursos federais adicionais sobre gastos públicos e resultados de desenvolvimento municipal no Brasil.",
+      "origin_file": "transfers_growth",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The Impact of Intergovernmental Transfers on Education Outcomes and Poverty Reduction",
+      "crossref_year": 2013,
+      "crossref_journal": "American Economic Journal: Applied Economics",
+      "crossref_authors": [
+        "Stephan Litschig",
+        "Kevin M Morrison"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 43
+    },
+    {
+      "authors": [
+        "Guang Zhang"
+      ],
+      "year": 2013,
+      "title": "The Impacts of Intergovernmental Transfers on Local Governments’ Fiscal Behavior in China: A Cross-County Analysis",
+      "journal": "Australian Journal of Public Administration",
+      "doi": "10.1111/1467-8500.12027",
+      "editorial_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8500.12027",
+      "finding": "Com dados cross-sectional de 2005, constata que devoluções tributárias estimulam gastos e atividades de receita; transferências de capacidade fiscal têm efeitos substitutivos modestos em alguns itens; repasses específicos estimulam gastos orçamentários, compatível com exigências de contrapartida.",
+      "relevance": "Compara como condados respondem a três categorias de transferências centrais — devoluções tributárias, transferências de capacidade fiscal e repasses específicos — em gastos e arrecadação.",
+      "origin_file": "china_transfers",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The Impacts of Intergovernmental Transfers on Local Governments’ Fiscal Behavior in China: A Cross‐County Analysis (政府间转移支付对中国地方政府财政行为的影响：一项跨县分析)",
+      "crossref_year": 2013,
+      "crossref_journal": "Australian Journal of Public Administration",
+      "crossref_authors": [
+        "Guang Zhang (厦门大学)"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 44
+    },
+    {
+      "authors": [
+        "Junxue Jia, Qingwang Guo e Jing Zhang"
+      ],
+      "year": 2014,
+      "title": "Fiscal decentralization and local expenditure policy in China",
+      "journal": "China Economic Review",
+      "doi": "10.1016/j.chieco.2014.01.002",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/S1043951X14000030",
+      "finding": "A descentralização das despesas eleva o gasto total e a participação de obras de capital, reduzindo as parcelas de educação e administração; a descentralização da receita tem pouco efeito. Os efeitos são mais fortes onde o desequilíbrio fiscal vertical é maior.",
+      "relevance": "Usa dados fiscais de condados para distinguir os efeitos da descentralização da receita e da despesa sobre volume e composição do gasto local.",
+      "origin_file": "china_local_finance",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal decentralization and local expenditure policy in China",
+      "crossref_year": 2014,
+      "crossref_journal": "China Economic Review",
+      "crossref_authors": [
+        "Junxue Jia",
+        "Qingwang Guo",
+        "Jing Zhang"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 45
+    },
+    {
+      "authors": [
+        "Chengri Ding, Yi Niu e Erik Lichtenberg"
+      ],
+      "year": 2014,
+      "title": "Spending preferences of local officials with off-budget land revenues of Chinese cities",
+      "journal": "China Economic Review",
+      "doi": "10.1016/j.chieco.2014.10.001",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S1043951X1400131X",
+      "finding": "Com dados de cidades-prefeitura de 1999–2006, as estimativas apoiam a associação de receitas de terra com mais infraestrutura urbana e amenidades visíveis, mas menos serviços básicos, como educação e transporte público; os autores relacionam esse padrão a incentivos de avaliação e promoção de quadros.",
+      "relevance": "Examina como receitas de alienação de direitos de uso da terra, importante fonte local fora do orçamento, se relacionam com categorias de gasto urbano.",
+      "origin_file": "china_local_finance",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Spending preferences of local officials with off-budget land revenues of Chinese cities",
+      "crossref_year": 2014,
+      "crossref_journal": "China Economic Review",
+      "crossref_authors": [
+        "Chengri Ding",
+        "Yi Niu",
+        "Erik Lichtenberg"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 46
+    },
+    {
+      "authors": [
+        "Emilie Caldeira",
+        "Grégoire Rota-Graziosi"
+      ],
+      "year": 2014,
+      "title": "The Crowding-in Effect of Simple Unconditional Central Grants on Local Own-Source Revenue: The Case of Benin",
+      "journal": "Journal of African Economies",
+      "doi": "10.1093/jae/eju003",
+      "editorial_url": "https://academic.oup.com/jae/article/23/3/361/730380",
+      "finding": "O grant tem impacto positivo inequivoco sobre a receita propria local. O efeito depende de um nivel minimo de riqueza e e mais forte em governos sem a mesma filiacao politica do presidente; uma regra simples baseada em populacao pode ser complementar, e nao substituta, da arrecadacao local.",
+      "relevance": "['crowding in de receita', 'grants incondicionais', 'desenho de formula']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The Crowding-in Effect of Simple Unconditional Central Grants on Local Own-Source Revenue: The Case of Benin",
+      "crossref_year": 2014,
+      "crossref_journal": "Journal of African Economies",
+      "crossref_authors": [
+        "E. Caldeira",
+        "G. Rota-Graziosi"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 47
+    },
+    {
+      "authors": [
+        "Kaddour Mehiriz",
+        "Richard Marceau"
+      ],
+      "year": 2014,
+      "title": "The Flypaper and Asymmetric Effects of Intergovernmental Grants to Quebec Municipalities",
+      "journal": "Public Budgeting & Finance",
+      "doi": "10.1111/pbaf.12026",
+      "editorial_url": "https://onlinelibrary.wiley.com/doi/10.1111/pbaf.12026",
+      "finding": "Em painel de 1.084 municípios do Quebec entre 2001 e 2007, encontra efeitos flypaper e assimétricos, sensíveis ao tipo de repasse e à despesa; transferências condicionais parecem alterar melhor a composição dos serviços, enquanto as incondicionais estimulam seu nível.",
+      "relevance": "Analisa heterogeneidade das respostas por tipo de transferência e categoria de gasto e testa se aumentos e reduções de repasses têm efeitos simétricos.",
+      "origin_file": "flypaper_reviews",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The Flypaper and Asymmetric Effects of Intergovernmental Grants to Quebec Municipalities",
+      "crossref_year": 2014,
+      "crossref_journal": "Public Budgeting &amp; Finance",
+      "crossref_authors": [
+        "Kaddour Mehiriz",
+        "Richard Marceau"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 48
+    },
+    {
+      "authors": [
+        "Heléne Lundqvist"
+      ],
+      "year": 2015,
+      "title": "Granting public or private consumption? Effects of grants on local public spending and income taxes",
+      "journal": "International Tax and Public Finance",
+      "doi": "10.1007/s10797-013-9279-7",
+      "editorial_url": "https://link.springer.com/article/10.1007/s10797-013-9279-7",
+      "finding": "O aumento dos grants produz efeito imediato positivo, estatisticamente e economicamente relevante, sobre o gasto local. O efeito sobre imposto de renda local e menor; nao ha evidencia de crowding out dinamico, isto e, de reversao posterior da resposta de gasto.",
+      "relevance": "['gasto versus impostos', 'grants incondicionais', 'crowding out dinamico']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Granting public or private consumption? Effects of grants on local public spending and income taxes",
+      "crossref_year": 2015,
+      "crossref_journal": "International Tax and Public Finance",
+      "crossref_authors": [
+        "Heléne Lundqvist"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 49
+    },
+    {
+      "authors": [
+        "Emanuele Bracco",
+        "Ben Lockwood",
+        "Francesco Porcelli",
+        "Michela Redoano"
+      ],
+      "year": 2015,
+      "title": "Intergovernmental grants as signals and the alignment effect: Theory and evidence",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/j.jpubeco.2014.11.007",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0047272714002291",
+      "finding": "Em municípios italianos, alinhamento político elevou grants em cerca de 40%; IV indicou aumento de cerca de €0,40 no gasto per capita por cada euro de grant, mas efeito quase nulo da renda privada.",
+      "relevance": "",
+      "origin_file": "comparative_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Intergovernmental grants as signals and the alignment effect: Theory and evidence",
+      "crossref_year": 2015,
+      "crossref_journal": "Journal of Public Economics",
+      "crossref_authors": [
+        "Emanuele Bracco",
+        "Ben Lockwood",
+        "Francesco Porcelli",
+        "Michela Redoano"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 50
+    },
+    {
+      "authors": [
+        "Xiaobo Lü"
+      ],
+      "year": 2015,
+      "title": "Intergovernmental transfers and local education provision — Evaluating China's 8-7 National Plan for Poverty Reduction",
+      "journal": "China Economic Review",
+      "doi": "10.1016/j.chieco.2015.02.001",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S1043951X15000255",
+      "finding": "Usando regressão descontínua fuzzy e dados de 1994–2000, não encontra evidência sistemática de aumento nos gastos educacionais nos condados contemplados nem efeitos de curto ou longo prazo na redução do analfabetismo.",
+      "relevance": "Avalia o efeito de um programa nacional de combate à pobreza, composto por transferências intergovernamentais, sobre gastos locais em educação e alfabetização.",
+      "origin_file": "china_transfers",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Intergovernmental transfers and local education provision — Evaluating China's 8-7 National Plan for Poverty Reduction",
+      "crossref_year": 2015,
+      "crossref_journal": "China Economic Review",
+      "crossref_authors": [
+        "Xiaobo Lü"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 51
+    },
+    {
+      "authors": [
+        "Rodolfo Ferreira Ribeiro Costa",
+        "Luiz Ivan de Melo Castelar"
+      ],
+      "year": 2015,
+      "title": "O impacto das transferências constitucionais sobre os gastos dos municípios brasileiros",
+      "journal": "Análise Econômica",
+      "doi": "10.22456/2176-5456.51004",
+      "editorial_url": "https://seer.ufrgs.br/index.php/AnaliseEconomica/article/view/51004",
+      "finding": "Com VAR em painel e regressões quantílicas, os autores não encontram evidência que confirme o flypaper na administração municipal brasileira; os efeitos das transferências variam ao longo dos quantis de gasto.",
+      "relevance": "Teste direto do flypaper em transferências constitucionais e despesas de 5.293 municípios brasileiros, de 1999 a 2009.",
+      "origin_file": "brazil_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "O IMPACTO DAS TRANSFERÊNCIAS CONSTITUCIONAIS SOBRE OS GASTOS DOS MUNICÍPIOS BRASILEIROS",
+      "crossref_year": 2015,
+      "crossref_journal": "Análise Econômica",
+      "crossref_authors": [
+        "Rodolfo Ferreira Ribeiro Costa",
+        "Luiz Ivan de Melo Castelar"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 52
+    },
+    {
+      "authors": [
+        "Marie Kjaergaard"
+      ],
+      "year": 2015,
+      "title": "The Flypaper Effect: Do Political Institutions Affect Danish Local Governments’ Response to Intergovernmental Grants?",
+      "journal": "Local Government Studies",
+      "doi": "10.1080/03003930.2014.968708",
+      "editorial_url": "https://www.tandfonline.com/doi/abs/10.1080/03003930.2014.968708",
+      "finding": "Identifica um efeito assimétrico forte; contrariamente à expectativa considerada, ele aparece tanto sob instituições orçamentárias centralizadas quanto fragmentadas.",
+      "relevance": "Relaciona instituições políticas subnacionais e assimetria do efeito flypaper, explorando uma reforma do sistema dinamarquês de transferências de 2007.",
+      "origin_file": "flypaper_reviews",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The Flypaper Effect: Do Political Institutions Affect Danish Local Governments’ Response to Intergovernmental Grants?",
+      "crossref_year": 2014,
+      "crossref_journal": "Local Government Studies",
+      "crossref_authors": [
+        "Marie Kjaergaard"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 53
+    },
+    {
+      "authors": [
+        "Maarten A. Allers",
+        "Wouter Vermeulen"
+      ],
+      "year": 2016,
+      "title": "Capitalization of equalizing grants and the flypaper effect",
+      "journal": "Regional Science and Urban Economics",
+      "doi": "10.1016/j.regsciurbeco.2016.03.005",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0166046216300047",
+      "finding": "A reforma holandesa foi plenamente capitalizada nos preços das casas, enquanto apenas pequena parcela virou redução de imposto, apontando serviços locais como canal e enfraquecendo explicações por rent-seeking.",
+      "relevance": "",
+      "origin_file": "comparative_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Capitalization of equalizing grants and the flypaper effect",
+      "crossref_year": 2016,
+      "crossref_journal": "Regional Science and Urban Economics",
+      "crossref_authors": [
+        "Maarten A. Allers",
+        "Wouter Vermeulen"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 54
+    },
+    {
+      "authors": [
+        "Jevuks Matheus Araujo",
+        "Rozane Bezerra Siqueira"
+      ],
+      "year": 2016,
+      "title": "Demanda por gastos públicos locais: evidências dos efeitos de ilusão fiscal no Brasil",
+      "journal": "Estudos Econômicos (São Paulo)",
+      "doi": "10.1590/0101-416146116jar",
+      "editorial_url": "https://revistas.usp.br/ee/article/view/88756",
+      "finding": "Os resultados indicam que mecanismos de ilusão fiscal são relevantes para compreender a expansão do gasto público local; os autores usam dados municipais de 2010 e o modelo do eleitor mediano.",
+      "relevance": "Estima a demanda por bens públicos locais em 5.249 municípios e examina mecanismos pelos quais estrutura tributária e transferências afetam a percepção do custo fiscal.",
+      "origin_file": "brazil_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Demanda por gastos públicos locais: evidências dos efeitos de ilusão fiscal no Brasil",
+      "crossref_year": 2016,
+      "crossref_journal": "Estudos Econômicos (São Paulo)",
+      "crossref_authors": [
+        "Jevuks Matheus Araujo",
+        "Rozane Bezerra Siqueira"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 55
+    },
+    {
+      "authors": [
+        "Martin Baekgaard",
+        "Marie Kjaergaard"
+      ],
+      "year": 2016,
+      "title": "Intergovernmental Grants and Public Expenditures: Evidence from a Survey Experiment",
+      "journal": "Local Government Studies",
+      "doi": "10.1080/03003930.2015.1110521",
+      "editorial_url": "https://www.tandfonline.com/doi/abs/10.1080/03003930.2015.1110521",
+      "finding": "Experimento randomizado com políticos locais dinamarqueses não encontrou diferença essencial por fonte da receita; ideologia explicou mais a alocação desejada que a origem do dinheiro.",
+      "relevance": "",
+      "origin_file": "comparative_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Intergovernmental Grants and Public Expenditures: Evidence from a Survey Experiment",
+      "crossref_year": 2016,
+      "crossref_journal": "Local Government Studies",
+      "crossref_authors": [
+        "Martin Baekgaard",
+        "Marie Kjaergaard"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 56
+    },
+    {
+      "authors": [
+        "Lucie Gadenne"
+      ],
+      "year": 2017,
+      "title": "Tax Me, but Spend Wisely? Sources of Public Finance and Government Accountability",
+      "journal": "American Economic Journal: Applied Economics",
+      "doi": "10.1257/app.20150509",
+      "editorial_url": "https://www.aeaweb.org/articles?id=10.1257/app.20150509",
+      "finding": "A expansão da capacidade tributária elevou receitas locais e melhorou quantidade e qualidade da infraestrutura educacional; aumentos de transferências com discricionariedade comparável não tiveram impacto nas medidas de infraestrutura analisadas.",
+      "relevance": "Compara diretamente como receitas tributárias próprias e transferências discricionárias afetam a provisão de infraestrutura nos municípios brasileiros.",
+      "origin_file": "brazil_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Tax Me, but Spend Wisely? Sources of Public Finance and Government Accountability",
+      "crossref_year": 2017,
+      "crossref_journal": "American Economic Journal: Applied Economics",
+      "crossref_authors": [
+        "Lucie Gadenne"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 57
+    },
+    {
+      "authors": [
+        "Krisztina Kis-Katos",
+        "Bambang Suharnoko Sjahrir"
+      ],
+      "year": 2017,
+      "title": "The impact of fiscal and political decentralization on local public investment in Indonesia",
+      "journal": "Journal of Comparative Economics",
+      "doi": "10.1016/j.jce.2017.03.003",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0147596717300264",
+      "finding": "Distritos com menor infraestrutura previa passaram a investir mais em saude e infraestrutura fisica, mas nao em educacao. Democratizacao antes da transferencia de poderes fiscais apertou a restricao orcamentaria; eleicoes diretas de chefes distritais reduziram investimento e nao melhoraram a focalizacao.",
+      "relevance": "['federalismo e descentralizacao', 'investimento local', 'accountability politica']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The impact of fiscal and political decentralization on local public investment in Indonesia",
+      "crossref_year": 2017,
+      "crossref_journal": "Journal of Comparative Economics",
+      "crossref_authors": [
+        "Krisztina Kis-Katos",
+        "Bambang Suharnoko Sjahrir"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 58
+    },
+    {
+      "authors": [
+        "Ergete Ferede"
+      ],
+      "year": 2017,
+      "title": "The Incentive Effects of Equalization Grants on Tax Policy: Evidence from Canadian Provinces",
+      "journal": "Public Finance Review",
+      "doi": "10.1177/1091142116666316",
+      "editorial_url": "https://journals.sagepub.com/doi/10.1177/1091142116666316",
+      "finding": "Com dados em painel e descontinuidade na fórmula de repasses, o artigo conclui que as transferências de equalização incentivam províncias a elevar alíquotas de imposto sobre renda empresarial e pessoal; sem o programa, as alíquotas seriam menores nas províncias beneficiárias. O artigo saiu online em 2016 e no volume de 2017.",
+      "relevance": "Fornece evidência sobre como subsídios de equalização alteram a política tributária e a autonomia de receita própria de governos provinciais.",
+      "origin_file": "local_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The Incentive Effects of Equalization Grants on Tax Policy",
+      "crossref_year": 2017,
+      "crossref_journal": "Public Finance Review",
+      "crossref_authors": [
+        "Ergete Ferede"
+      ],
+      "title_similarity": 0.7785234899328859,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 59
+    },
+    {
+      "authors": [
+        "Agnese Sacchi",
+        "Simone Salotti"
+      ],
+      "year": 2017,
+      "title": "The influence of decentralized taxes and intergovernmental grants on local spending volatility",
+      "journal": "Regional Studies",
+      "doi": "10.1080/00343404.2015.1111512",
+      "editorial_url": "https://www.tandfonline.com/doi/full/10.1080/00343404.2015.1111512",
+      "finding": "Maior volatilidade das transferencias esta associada a maior volatilidade do gasto subcentral. A volatilidade dos impostos locais, especialmente o imposto predial, tem efeito contrario, sugerindo que autonomia sobre bases responsivas permite suavizar o gasto.",
+      "relevance": "['volatilidade do gasto', 'autonomia tributaria', 'estabilidade fiscal']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The influence of decentralized taxes and intergovernmental grants on local spending volatility",
+      "crossref_year": 2017,
+      "crossref_journal": "Regional Studies",
+      "crossref_authors": [
+        "Agnese Sacchi",
+        "Simone Salotti"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 60
+    },
+    {
+      "authors": [
+        "Yongqiu Wu",
+        "Yi Huang",
+        "Jing Zhao",
+        "Yanping Pu"
+      ],
+      "year": 2017,
+      "title": "Transfer payment structure and local government fiscal efficiency: evidence from China",
+      "journal": "China Finance and Economic Review",
+      "doi": "10.1186/s40589-017-0058-y",
+      "editorial_url": "https://link.springer.com/article/10.1186/s40589-017-0058-y",
+      "finding": "A análise de eficiência e regressões quantílicas encontra associação positiva significativa entre devoluções tributárias e eficiência fiscal local; os autores consideram transferências categóricas mais eficientes do que condicionais e recomendam reduzir a parcela condicional.",
+      "relevance": "Estuda como a composição dos repasses centrais — devoluções tributárias, transferências categóricas e condicionais — se relaciona com a eficiência fiscal local.",
+      "origin_file": "china_transfers",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Transfer payment structure and local government fiscal efficiency: evidence from China",
+      "crossref_year": 2017,
+      "crossref_journal": "China Finance and Economic Review",
+      "crossref_authors": [
+        "Yongqiu Wu",
+        "Yi Huang",
+        "Jing Zhao",
+        "Yanping Pu"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 61
+    },
+    {
+      "authors": [
+        "Herbert Dawid",
+        "Peter Harting",
+        "Michael Neugart"
+      ],
+      "year": 2018,
+      "title": "Fiscal transfers and regional economic growth",
+      "journal": "Review of International Economics",
+      "doi": "10.1111/roie.12317",
+      "editorial_url": "https://onlinelibrary.wiley.com/doi/10.1111/roie.12317",
+      "finding": "Em um modelo macroeconômico baseado em agentes para regiões europeias heterogêneas, as transferências têm efeito positivo de curto e longo prazo sobre consumo per capita na região destinatária; subsídios empresariais orientados à tecnologia têm efeito mais forte de longo prazo sobre competitividade.",
+      "relevance": "Analisa a capacidade de transferências fiscais entre regiões de uma união econômica de conter divergência e elevar consumo local.",
+      "origin_file": "transfers_growth",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal transfers and regional economic growth",
+      "crossref_year": 2018,
+      "crossref_journal": "Review of International Economics",
+      "crossref_authors": [
+        "H. Dawid",
+        "P. Harting",
+        "M. Neugart"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 62
+    },
+    {
+      "authors": [
+        "Bin Huang",
+        "Yunxia Dong",
+        "Jingjing Miao",
+        "Caiqun Xu"
+      ],
+      "year": 2018,
+      "title": "Intergovernmental Fiscal Transfers and County-Level Education Expenditure in China",
+      "journal": "ECNU Review of Education",
+      "doi": "10.30926/ecnuroe2018010306",
+      "editorial_url": "https://journals.sagepub.com/doi/10.30926/ecnuroe2018010306",
+      "finding": "A maioria dos repasses substitui gastos educacionais locais, e subsídios centrais para educação compulsória rural deslocam investimentos provenientes de recursos locais; o programa geralmente reduz disparidades entre condados, mas com efeitos regionais heterogêneos.",
+      "relevance": "Analisa os efeitos de distintos repasses intergovernamentais sobre despesas de educação pública em 1.985 condados e a possível fuga de subsídios para educação compulsória rural.",
+      "origin_file": "china_transfers",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Intergovernmental Fiscal Transfers and County-Level Education Expenditure in China",
+      "crossref_year": 2018,
+      "crossref_journal": "ECNU Review of Education",
+      "crossref_authors": [
+        "Bin Huang",
+        "Yunxia Dong",
+        "Jingjing Miao",
+        "Caiqun Xu"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 63
+    },
+    {
+      "authors": [
+        "Takaaki Masaki"
+      ],
+      "year": 2018,
+      "title": "The impact of intergovernmental transfers on local revenue generation in Sub-Saharan Africa: Evidence from Tanzania",
+      "journal": "World Development",
+      "doi": "10.1016/j.worlddev.2018.01.026",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/S0305750X18300366",
+      "finding": "Ao contrário da hipótese de crowding-out, as transferências aumentaram a mobilização de receitas locais; o efeito positivo foi mais forte em distritos rurais.",
+      "relevance": "Examina se transferências reduzem ou apoiam a arrecadação própria de governos locais em um contexto de baixa capacidade fiscal, usando dados trimestrais da Tanzânia.",
+      "origin_file": "fiscal_federalism",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The impact of intergovernmental transfers on local revenue generation in Sub-Saharan Africa: Evidence from Tanzania",
+      "crossref_year": 2018,
+      "crossref_journal": "World Development",
+      "crossref_authors": [
+        "Takaaki Masaki"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 64
+    },
+    {
+      "authors": [
+        "Eric Rougier",
+        "François Combarnous",
+        "Yves-André Fauré"
+      ],
+      "year": 2018,
+      "title": "The “Local Economy” Effect of Social Transfers: An Empirical Assessment of the Impact of the Bolsa Família Program on Local Productive Structure and Economic Growth",
+      "journal": "World Development",
+      "doi": "10.1016/j.worlddev.2017.09.019",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0305750X17303121",
+      "finding": "A análise de 184 municípios de 2003–2010 encontra efeito positivo do Bolsa Família no crescimento local, mas também mudança da estrutura produtiva em direção a serviços informais; os autores estimam que o efeito de crescimento poderia ter sido aproximadamente duas vezes maior sem esse efeito estrutural adverso.",
+      "relevance": "Estuda os efeitos diretos e indiretos de transferências sociais sobre crescimento e transformação produtiva municipal no Ceará, Brasil.",
+      "origin_file": "transfers_growth",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The “Local Economy” Effect of Social Transfers: An Empirical Assessment of the Impact of the Bolsa Família Program on Local Productive Structure and Economic Growth",
+      "crossref_year": 2018,
+      "crossref_journal": "World Development",
+      "crossref_authors": [
+        "Eric Rougier",
+        "François Combarnous",
+        "Yves-André Fauré"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 65
+    },
+    {
+      "authors": [
+        "Lucas Oliveira Gomes Ferreira",
+        "André Luiz Marques Serrano",
+        "Federico Revelli"
+      ],
+      "year": 2019,
+      "title": "Effects of federal constitutional grants in Brazilian municipalities",
+      "journal": "Review of Urban & Regional Development Studies",
+      "doi": "10.1111/rurd.12103",
+      "editorial_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/rurd.12103",
+      "finding": "O artigo conclui que há flypaper, mais intenso em municípios com alinhamento partidário entre prefeito, presidente e governador e em municípios com baixa autonomia tributária.",
+      "relevance": "Examina o flypaper em 476 municípios brasileiros entre 2005 e 2012, explorando alinhamento político como instrumento para transferências.",
+      "origin_file": "brazil_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "EFFECTS OF FEDERAL CONSTITUTIONAL GRANTS IN BRAZILIAN MUNICIPALITIES",
+      "crossref_year": 2019,
+      "crossref_journal": "Review of Urban &amp; Regional Development Studies",
+      "crossref_authors": [
+        "Lucas Oliveira Gomes Ferreira",
+        "André Luiz Marques Serrano",
+        "Federico Revelli"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 66
+    },
+    {
+      "authors": [
+        "Raphael Corbi",
+        "Elias Papaioannou",
+        "Paolo Surico"
+      ],
+      "year": 2019,
+      "title": "Regional Transfer Multipliers",
+      "journal": "The Review of Economic Studies",
+      "doi": "10.1093/restud/rdy069",
+      "editorial_url": "https://academic.oup.com/restud/article/86/5/1901/5067076",
+      "finding": "A descontinuidade da fórmula de transferências aponta que o aumento de recursos municipais eleva emprego e renda formais, com cerca de três novos empregos privados formais por emprego público adicional; os multiplicadores são maiores em municípios de baixa renda e com restrições de crédito.",
+      "relevance": "Explora como transferências federais a municípios brasileiros propagam-se pelo mercado de trabalho formal local, uma medida direta da atividade econômica.",
+      "origin_file": "transfers_growth",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Regional Transfer Multipliers",
+      "crossref_year": 2019,
+      "crossref_journal": "The Review of Economic Studies",
+      "crossref_authors": [
+        "Raphael Corbi",
+        "Elias Papaioannou",
+        "Paolo Surico"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 67
+    },
+    {
+      "authors": [
+        "Tristan Canare"
+      ],
+      "year": 2019,
+      "title": "THE EFFECT OF REVENUE SHARES ON LOCAL GOVERNMENT SPENDING: EVIDENCE FROM PHILIPPINE PROVINCES",
+      "journal": "The Singapore Economic Review",
+      "doi": "10.1142/s0217590819500206",
+      "editorial_url": "https://www.worldscientific.com/doi/full/10.1142/S0217590819500206",
+      "finding": "Painel de províncias filipinas (2001–2015) estimou efeito marginal da revenue share IRA ligeiramente acima de 1 no gasto total, maior que o de receita própria e heterogêneo por função.",
+      "relevance": "",
+      "origin_file": "comparative_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "THE EFFECT OF REVENUE SHARES ON LOCAL GOVERNMENT SPENDING: EVIDENCE FROM PHILIPPINE PROVINCES",
+      "crossref_year": 2023,
+      "crossref_journal": "The Singapore Economic Review",
+      "crossref_authors": [
+        "TRISTAN CANARE"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 68
+    },
+    {
+      "authors": [
+        "Daniel Azevedo Pansani",
+        "André Luiz Marques Serrano",
+        "Lucas Oliveira Gomes Ferreira"
+      ],
+      "year": 2020,
+      "title": "Análise de Evidências e Causas do Efeito Flypaper e da Ilusão Fiscal nos Estados e Municípios Brasileiros",
+      "journal": "Administração Pública e Gestão Social",
+      "doi": "10.21118/apgs.v12i3.8169",
+      "editorial_url": "https://periodicos.ufv.br/apgs/article/view/8169",
+      "finding": "Com dados de 2004 a 2015 e efeitos fixos, relata evidência de flypaper e, parcialmente, de ilusão fiscal associada à complexidade das receitas. Seu nível de análise é por UF, portanto é menos diretamente municipal que os estudos de painel de municípios.",
+      "relevance": "Estudo de painel por unidade da Federação que testa o flypaper e mecanismos de ilusão fiscal no Brasil, incluindo transferências e gastos públicos.",
+      "origin_file": "brazil_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Análise de Evidências e Causas do Efeito Flypaper e da Ilusão Fiscal nos Estados e Municípios Brasileiros",
+      "crossref_year": 2020,
+      "crossref_journal": "Administração Pública e Gestão Social",
+      "crossref_authors": [
+        "Daniel Azevedo Pansani",
+        "André Luiz Marques Serrano",
+        "Lucas Oliveira Gomes Ferreira"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 69
+    },
+    {
+      "authors": [
+        "Takeshi Miyazaki"
+      ],
+      "year": 2020,
+      "title": "Intergovernmental fiscal transfers and tax efforts: Regression-discontinuity analysis for Japanese local governments",
+      "journal": "Regional Science and Urban Economics",
+      "doi": "10.1016/j.regsciurbeco.2020.103554",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0166046219300833",
+      "finding": "A análise de descontinuidade e dados municipais encontra que uma taxa maior de equalização incentiva municípios a elevar as alíquotas do imposto corporativo adicional isento do cálculo dos repasses.",
+      "relevance": "Examina esforço tributário de governos locais japoneses, especificamente o efeito da equalização sobre alíquotas de imposto corporativo local não incluídas no cálculo das transferências.",
+      "origin_file": "local_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Intergovernmental fiscal transfers and tax efforts: Regression-discontinuity analysis for Japanese local governments",
+      "crossref_year": 2020,
+      "crossref_journal": "Regional Science and Urban Economics",
+      "crossref_authors": [
+        "Takeshi Miyazaki"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 70
+    },
+    {
+      "authors": [
+        "Tassia Cruz",
+        "Talita Silva"
+      ],
+      "year": 2020,
+      "title": "Minimum Spending in Education and the Flypaper Effect",
+      "journal": "Economics of Education Review",
+      "doi": "10.1016/j.econedurev.2020.102012",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0272775719304042",
+      "finding": "A regra mínima aumentou gasto educacional nos municípios inicialmente abaixo do piso e reduziu-o nos que já estavam acima; o efeito flypaper foi significativo para transferências redistributivas, mas não para outros tipos de transferências analisados.",
+      "relevance": "Mostra como regras de gasto mínimo e diferentes fontes de transferências interagem com despesas municipais de educação.",
+      "origin_file": "brazil_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Minimum Spending in Education and the Flypaper Effect",
+      "crossref_year": 2020,
+      "crossref_journal": "Economics of Education Review",
+      "crossref_authors": [
+        "Tassia Cruz",
+        "Talita Silva"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 71
+    },
+    {
+      "authors": [
+        "Thiess Buettner e Manuela Krause"
+      ],
+      "year": 2021,
+      "title": "Fiscal equalization as a driver of tax increases: empirical evidence from Germany",
+      "journal": "International Tax and Public Finance",
+      "doi": "10.1007/s10797-020-09610-9",
+      "editorial_url": "https://link.springer.com/article/10.1007/s10797-020-09610-9",
+      "finding": "As estimativas indicam incentivo robusto à elevação de alíquotas via redistribuição da base tributária; sob equalização integral, a alíquota do imposto sobre transmissão imobiliária é estimada cerca de 1,3 ponto percentual acima do cenário sem redistribuição. Publicado online em 2020 e no volume de 2021.",
+      "relevance": "Investiga a interação entre equalização, competência tributária devolvida e alíquotas próprias; a análise trata dos estados alemães e complementa os estudos municipais sobre incentivos fiscais.",
+      "origin_file": "local_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal equalization as a driver of tax increases: empirical evidence from Germany",
+      "crossref_year": 2021,
+      "crossref_journal": "International Tax and Public Finance",
+      "crossref_authors": [
+        "Thiess Buettner",
+        "Manuela Krause"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 72
+    },
+    {
+      "authors": [
+        "Marcel Henkel",
+        "Tobias Seidel",
+        "Jens Suedekum"
+      ],
+      "year": 2021,
+      "title": "Fiscal Transfers in the Spatial Economy",
+      "journal": "American Economic Journal: Economic Policy",
+      "doi": "10.1257/pol.20180294",
+      "editorial_url": "https://www.aeaweb.org/articles?id=10.1257/pol.20180294",
+      "finding": "A calibração indica que as transferências reduzem disparidades regionais, mas deslocam atividade das cidades centrais para áreas periféricas menos produtivas e reduzem o produto per capita em cerca de 2%; o bem-estar ainda aumenta 0,07% no cenário de referência por aliviar congestionamento urbano.",
+      "relevance": "Modela como transferências fiscais redistributivas alteram a localização da atividade e as disparidades econômicas regionais na Alemanha.",
+      "origin_file": "transfers_growth",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal Transfers in the Spatial Economy",
+      "crossref_year": 2021,
+      "crossref_journal": "American Economic Journal: Economic Policy",
+      "crossref_authors": [
+        "Marcel Henkel",
+        "Tobias Seidel",
+        "Jens Suedekum"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 73
+    },
+    {
+      "authors": [
+        "Marcelo Castro",
+        "Enlinson Mattos"
+      ],
+      "year": 2021,
+      "title": "Measuring Fiscal Spillovers in Brazilian Municipalities",
+      "journal": "Public Finance Review",
+      "doi": "10.1177/1091142121993522",
+      "editorial_url": "https://journals.sagepub.com/doi/10.1177/1091142121993522",
+      "finding": "Os repasses a municípios vizinhos explicam aproximadamente 20% do efeito flypaper nas economias locais; transbordamentos fiscais são em geral positivos, com exceções em saúde pública e saneamento para algumas faixas populacionais.",
+      "relevance": "Investiga efeitos fiscais entre municípios vizinhos após variações exógenas no Fundo de Participação dos Municípios (FPM).",
+      "origin_file": "brazil_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Measuring Fiscal Spillovers in Brazilian Municipalities",
+      "crossref_year": 2021,
+      "crossref_journal": "Public Finance Review",
+      "crossref_authors": [
+        "Marcelo Castro",
+        "Enlinson Mattos"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 74
+    },
+    {
+      "authors": [
+        "Joseph Gyourko, Yang Shen, Jing Wu e Rongjie Zhang"
+      ],
+      "year": 2022,
+      "title": "Land finance in China: Analysis and review",
+      "journal": "China Economic Review",
+      "doi": "10.1016/j.chieco.2022.101868",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S1043951X22001262",
+      "finding": "Os autores estimam custos de aquisição de direitos de uso da terra em cerca de 65% das receitas brutas de venda; em 2018, lucros de terra e tributos imobiliários relacionados somavam aproximadamente 4 trilhões de RMB, mais de 40% da receita orçamentária local. A revisão conclui que esse modelo sustenta infraestrutura, mas sua rentabilidade e sustentabilidade estão sob pressão.",
+      "relevance": "Síntese acadêmica do sistema de financiamento local baseado em terra e sua relação com receitas, investimento público e endividamento subnacional.",
+      "origin_file": "china_local_finance",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Land finance in China: Analysis and review",
+      "crossref_year": 2022,
+      "crossref_journal": "China Economic Review",
+      "crossref_authors": [
+        "Joseph Gyourko",
+        "Yang Shen",
+        "Jing Wu",
+        "Rongjie Zhang"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 75
+    },
+    {
+      "authors": [
+        "Irineu de Carvalho Filho",
+        "Stephan Litschig"
+      ],
+      "year": 2022,
+      "title": "Long-Run Impacts of Intergovernmental Transfers",
+      "journal": "Journal of Human Resources",
+      "doi": "10.3368/jhr.57.3.0917-9064r2",
+      "editorial_url": "https://jhr.uwpress.org/content/57/3/868",
+      "finding": "Os ganhos iniciais de escolaridade, alfabetização e redução da pobreza foram atenuados, mas persistiram até 2000; coortes nascidas após o aumento de recursos obtiveram resultados 0,06–0,10 desvio-padrão maiores em exames nacionais no fim dos anos 2000.",
+      "relevance": "Acompanha por décadas os efeitos de um aumento temporário de transferências federais a governos locais brasileiros, oferecendo evidência sobre persistência de resultados de desenvolvimento.",
+      "origin_file": "transfers_growth",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Long-Run Impacts of Intergovernmental Transfers",
+      "crossref_year": 2022,
+      "crossref_journal": "Journal of Human Resources",
+      "crossref_authors": [
+        "Irineu de Carvalho Filho",
+        "Stephan Litschig"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 76
+    },
+    {
+      "authors": [
+        "Rose Camille Vincent",
+        "Victor Osei Kwadwo"
+      ],
+      "year": 2022,
+      "title": "Spatial interdependence and spillovers of fiscal grants in Benin: Static and dynamic diffusions",
+      "journal": "World Development",
+      "doi": "10.1016/j.worlddev.2022.106006",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/S0305750X22001966",
+      "finding": "O grant FADeC eleva o gasto municipal per capita e produz difusao positiva entre municipios vizinhos. Spillovers entre vizinhos etnicos representam 13,9% do efeito total no curto prazo e 15,5% no longo prazo.",
+      "relevance": "['spillovers espaciais', 'transferencias para servicos publicos', 'desenvolvimento regional']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Spatial interdependence and spillovers of fiscal grants in Benin: Static and dynamic diffusions",
+      "crossref_year": 2022,
+      "crossref_journal": "World Development",
+      "crossref_authors": [
+        "Rose Camille Vincent",
+        "Victor Osei Kwadwo"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 77
+    },
+    {
+      "authors": [
+        "Estela Oliveira da Luz",
+        "Silvania Neris Nossa",
+        "Danilo Soares Monte-mor",
+        "João Eudes Bezerra Filho"
+      ],
+      "year": 2022,
+      "title": "Transferências Voluntárias e o Efeito Flypaper",
+      "journal": "Administração Pública e Gestão Social",
+      "doi": "10.21118/apgs.v14i3.12321",
+      "editorial_url": "https://periodicos.ufv.br/apgs/article/view/12321",
+      "finding": "Encontra efeito flypaper para despesas de capital, mas não para despesas correntes; o estudo também relata que fatores político-partidários podem direcionar investimentos sem planejamento suficiente de custos futuros de manutenção.",
+      "relevance": "Examina transferências voluntárias da União, inclusive recursos ligados a emendas impositivas, e despesas correntes e de capital em 5.484 municípios.",
+      "origin_file": "brazil_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Transferências Voluntárias e o Efeito Flypaper",
+      "crossref_year": 2022,
+      "crossref_journal": "Administração Pública e Gestão Social",
+      "crossref_authors": [
+        "Estela Oliveira da Luz",
+        "Silvania Neris Nossa",
+        "Danilo Soares Monte-mor",
+        "João Eudes Bezerra Filho"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 78
+    },
+    {
+      "authors": [
+        "Vicente Rios",
+        "Miriam Hortas-Rico",
+        "Pedro Pascual"
+      ],
+      "year": 2022,
+      "title": "What shapes the flypaper effect? The role of the political environment in the budget process",
+      "journal": "Local Government Studies",
+      "doi": "10.1080/03003930.2020.1866555",
+      "editorial_url": "https://www.tandfonline.com/doi/abs/10.1080/03003930.2020.1866555",
+      "finding": "Municípios com maior eficiência de arrecadação e governos locais politicamente mais fortes apresentam efeito flypaper menor.",
+      "relevance": "Investiga heterogeneidade espacial do efeito em 2.451 municípios espanhóis, combinando painel espacial bayesiano e efeitos fixos com variáveis políticas e de gestão tributária.",
+      "origin_file": "flypaper_reviews",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "What shapes the flypaper effect? The role of the political environment in the budget process",
+      "crossref_year": 2022,
+      "crossref_journal": "Local Government Studies",
+      "crossref_authors": [
+        "Vicente Rios",
+        "Miriam Hortas-Rico",
+        "Pedro Pascual"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 79
+    },
+    {
+      "authors": [
+        "Yidan Liu",
+        "Juann H. Hung"
+      ],
+      "year": 2023,
+      "title": "China’s 1994 fiscal reform and local governments’ efforts on fighting industrial pollution",
+      "journal": "International Public Management Journal",
+      "doi": "10.1080/10967494.2023.2174224",
+      "editorial_url": "https://www.tandfonline.com/doi/abs/10.1080/10967494.2023.2174224",
+      "finding": "Usando dados de 29 províncias de 1992 a 2015, o estudo conclui que a reforma fiscal de 1994 teve impacto negativo nos esforços dos governos locais para combater a poluição industrial.",
+      "relevance": "Liga a mudança de incentivos intergovernamentais da reforma fiscal de 1994 às prioridades de gasto e ao esforço ambiental dos governos locais, considerando o sistema de promoção de quadros.",
+      "origin_file": "china_institutions",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "China’s 1994 fiscal reform and local governments’ efforts on fighting industrial pollution",
+      "crossref_year": 2023,
+      "crossref_journal": "International Public Management Journal",
+      "crossref_authors": [
+        "Yidan Liu",
+        "Juann H. Hung"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 80
+    },
+    {
+      "authors": [
+        "Yan Yan e Andrew Reschovsky"
+      ],
+      "year": 2023,
+      "title": "Fiscal disparities among local governments in Zhejiang Province, China",
+      "journal": "Journal of Urban Affairs",
+      "doi": "10.1080/07352166.2020.1851138",
+      "editorial_url": "https://www.tandfonline.com/doi/abs/10.1080/07352166.2020.1851138",
+      "finding": "As transferências equalizadoras reduzem substancialmente, mas não eliminam, disparidades fiscais em Zhejiang. Transferências per capita muito maiores para governos rurais menores fazem com que, após transferências, a condição fiscal relativa de cidades maiores seja mais fraca.",
+      "relevance": "Compara capacidade arrecadatória própria e necessidades de despesa de governos locais, medindo disparidades fiscais antes e depois das transferências equalizadoras.",
+      "origin_file": "china_local_finance",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal disparities among local governments in Zhejiang Province, China",
+      "crossref_year": 2023,
+      "crossref_journal": "Journal of Urban Affairs",
+      "crossref_authors": [
+        "Yan Yan",
+        "Andrew Reschovsky"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 81
+    },
+    {
+      "authors": [
+        "Joseph B. Ajefu",
+        "Joseph O. Ogebe"
+      ],
+      "year": 2023,
+      "title": "Impact of Intergovernmental Transfers on Household Multidimensional Well-Being",
+      "journal": "The Journal of Development Studies",
+      "doi": "10.1080/00220388.2022.2139604",
+      "editorial_url": "https://www.tandfonline.com/doi/full/10.1080/00220388.2022.2139604",
+      "finding": "Um aumento das transferencias melhora o bem-estar multidimensional das familias e reduz o indice de pobreza; gasto recorrente e gasto de capital aparecem como canais potenciais.",
+      "relevance": "['desenvolvimento economico local', 'bem-estar', 'transferencias e pobreza']",
+      "origin_file": "comparative_grants",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Impact of Intergovernmental Transfers on Household Multidimensional Well-Being",
+      "crossref_year": 2023,
+      "crossref_journal": "The Journal of Development Studies",
+      "crossref_authors": [
+        "Joseph B. Ajefu",
+        "Joseph O. Ogebe"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 82
+    },
+    {
+      "authors": [
+        "Ron Shani, Yaniv Reingewertz e Eran Vigoda-Gadot"
+      ],
+      "year": 2023,
+      "title": "Intergovernmental grants and local public finance: An empirical examination in Israel",
+      "journal": "European Journal of Political Economy",
+      "doi": "10.1016/j.ejpoleco.2023.102420",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0176268023000642",
+      "finding": "A reforma de 2011 mostrou respostas assimétricas: cortes de repasses elevaram alíquotas e déficits sem alterar despesas; aumentos dos repasses elevaram gastos e reduziram alíquotas e déficits. A elevação tributária após corte foi quase duas vezes a redução após aumento.",
+      "relevance": "Avalia em governos locais israelenses como mudanças nos repasses afetam impostos próprios, despesa e déficit, relacionando transferências à composição das finanças locais.",
+      "origin_file": "local_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Intergovernmental grants and local public finance: An empirical examination in Israel",
+      "crossref_year": 2023,
+      "crossref_journal": "European Journal of Political Economy",
+      "crossref_authors": [
+        "Ron Shani",
+        "Yaniv Reingewertz",
+        "Eran Vigoda-Gadot"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 83
+    },
+    {
+      "authors": [
+        "Saulo Silva Lima Filho",
+        "Sara Silva Lima Dal-Comuni",
+        "Fernanda Ferro Lima"
+      ],
+      "year": 2023,
+      "title": "O Efeito Flypaper e a Preguiça Fiscal: Uma Análise da Eficiência de Arrecadação Municipal em Relação às Transferências Voluntárias Recebidas",
+      "journal": "Revista Contabilidade, Gestão e Governança",
+      "doi": "10.51341/cgg.v26i1.3018",
+      "editorial_url": "https://revistacgg.org/index.php/contabil/article/view/3018",
+      "finding": "Para 2018–2019, os autores encontram relação inversa entre transferências voluntárias recebidas e eficiência de arrecadação; trata-se de uma medida de esforço fiscal, não de um teste clássico da elasticidade do gasto frente à renda.",
+      "relevance": "Relaciona transferências voluntárias e eficiência de arrecadação em 399 municípios do Paraná, usando a hipótese de redução do esforço fiscal como manifestação associada ao flypaper.",
+      "origin_file": "brazil_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "O Efeito Flypaper e a Preguiça Fiscal: Uma Análise da Eficiência de Arrecadação Municipal em Relação às Transferências Voluntárias Recebidas",
+      "crossref_year": 2023,
+      "crossref_journal": "Contabilidade Gestão e Governança",
+      "crossref_authors": [
+        "Saulo Silva Lima Filho",
+        "Sara Silva Lima Dal-Comuni",
+        "Fernanda Ferro Lima"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 84
+    },
+    {
+      "authors": [
+        "Thai V Le e Matthew M Young"
+      ],
+      "year": 2023,
+      "title": "Regressive revenue sourcing by local governments",
+      "journal": "Urban Studies",
+      "doi": "10.1177/00420980221124456",
+      "editorial_url": "https://journals.sagepub.com/doi/10.1177/00420980221124456",
+      "finding": "Com dados de 2002–2016, encontra associação positiva entre a parcela de residentes latinos/hispânicos e dependência municipal de multas, tarifas e confiscos; a participação dessas receitas próprias não tributárias cresceu mais durante a Grande Recessão. Publicado online em 2022 e no volume de 2023.",
+      "relevance": "Conecta receitas próprias municipais a escolhas entre tributos e fontes não tributárias, examinando dependência de multas, tarifas e confiscos em cidades californianas.",
+      "origin_file": "local_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Regressive revenue sourcing by local governments",
+      "crossref_year": 2023,
+      "crossref_journal": "Urban Studies",
+      "crossref_authors": [
+        "Thai V Le",
+        "Matthew M Young"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 85
+    },
+    {
+      "authors": [
+        "Cheng-Tao Tang",
+        "Chun Yee Wong",
+        "Orelie Bathan Delas Alas"
+      ],
+      "year": 2024,
+      "title": "Effect of intergovernmental transfers on income and poverty rates: Evidence from the Philippines",
+      "journal": "World Development",
+      "doi": "10.1016/j.worlddev.2023.106420",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0305750X23002383",
+      "finding": "A estratégia de variável instrumental baseada na fórmula de repartição indica que 1.000 pesos per capita adicionais elevam a renda disponível domiciliar per capita em 9,6% no longo prazo e reduzem a pobreza em aproximadamente cinco pontos percentuais, com efeitos maiores em governos locais pequenos e menos desenvolvidos.",
+      "relevance": "Avalia se transferências intergovernamentais se traduzem em renda e redução da pobreza nas comunidades locais filipinas.",
+      "origin_file": "transfers_growth",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Effect of intergovernmental transfers on income and poverty rates: Evidence from the Philippines",
+      "crossref_year": 2024,
+      "crossref_journal": "World Development",
+      "crossref_authors": [
+        "Cheng-Tao Tang",
+        "Chun Yee Wong",
+        "Orelie Bathan Delas Alas"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 86
+    },
+    {
+      "authors": [
+        "Xiao Tan",
+        "Ying Tan"
+      ],
+      "year": 2024,
+      "title": "Equalization through the People’s Republic of China’s Intergovernmental Fiscal System: The Effectiveness of Central and Provincial Transfers",
+      "journal": "Asian Development Review",
+      "doi": "10.1142/s011611052450001x",
+      "editorial_url": "https://www.worldscientific.com/doi/10.1142/S011611052450001X",
+      "finding": "A alocação central permanece fortemente baseada em regiões e convive com desigualdade intrarregional; províncias mais pobres tendem a reter mais recursos recebidos, e a equalização provincial não é proporcional à desigualdade pré-transferência, deixando algumas localidades de fora.",
+      "relevance": "Avalia conjuntamente a distribuição de transferências centrais e os esforços equalizadores das províncias dentro do sistema fiscal intergovernamental chinês.",
+      "origin_file": "china_transfers",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Equalization through the People’s Republic of China’s Intergovernmental Fiscal System: The Effectiveness of Central and Provincial Transfers",
+      "crossref_year": 2024,
+      "crossref_journal": "Asian Development Review",
+      "crossref_authors": [
+        "XIAO TAN",
+        "YING TAN"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 87
+    },
+    {
+      "authors": [
+        "Piotr Danisewicz",
+        "Steven Ongena"
+      ],
+      "year": 2024,
+      "title": "Fiscal transfers, local government, and entrepreneurship",
+      "journal": "Journal of Policy Analysis and Management",
+      "doi": "10.1002/pam.22532",
+      "editorial_url": "https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22532",
+      "finding": "RDD fuzzy em municípios poloneses encontrou efeito positivo dos grants no número de firmas, especialmente empresas individuais e pequenas; o efeito foi maior com oposição legislativa mais ativa ou maior pluralismo.",
+      "relevance": "",
+      "origin_file": "comparative_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal transfers, local government, and entrepreneurship",
+      "crossref_year": 2024,
+      "crossref_journal": "Journal of Policy Analysis and Management",
+      "crossref_authors": [
+        "Piotr Danisewicz",
+        "Steven Ongena"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 88
+    },
+    {
+      "authors": [
+        "Manuel E. Lago, Santiago Lago-Peñas e Jorge Martinez-Vazquez"
+      ],
+      "year": 2024,
+      "title": "On the effects of intergovernmental grants: a survey",
+      "journal": "International Tax and Public Finance",
+      "doi": "10.1007/s10797-023-09816-7",
+      "editorial_url": "https://link.springer.com/article/10.1007/s10797-023-09816-7",
+      "finding": "A revisão identifica resultados empíricos heterogêneos, em parte associados a métodos e contextos institucionais distintos; aponta que o efeito flypaper e sua persistência permanecem debatidos e que ainda faltam evidências sobre incentivos, arrecadação, eficiência e accountability.",
+      "relevance": "Revisão publicada em periódico científico que sintetiza evidências sobre efeitos das transferências em tributação, despesas, estabilidade fiscal e economia política.",
+      "origin_file": "fiscal_federalism",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "On the effects of intergovernmental grants: a survey",
+      "crossref_year": 2024,
+      "crossref_journal": "International Tax and Public Finance",
+      "crossref_authors": [
+        "Manuel E. Lago",
+        "Santiago Lago-Peñas",
+        "Jorge Martinez-Vazquez"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 89
+    },
+    {
+      "authors": [
+        "Pedro Jorge Holanda Figueiredo Alves",
+        "Jevuks Matheus Araujo"
+      ],
+      "year": 2024,
+      "title": "The effects of intergovernmental transfers on the local fiscal incentives of Brazilian municipalities",
+      "journal": "Journal of Government and Economics",
+      "doi": "10.1016/j.jge.2024.100104",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/S2667319324000089",
+      "finding": "As estimativas indicam aumento significativo de despesas administrativas e de esporte e lazer; o mecanismo plausível para as despesas administrativas é a ampliação de cargos comissionados, interpretada pelos autores como incentivo fiscal perverso.",
+      "relevance": "Usa descontinuidades populacionais das regras do FPM para testar como receita exógena altera decisões orçamentárias municipais.",
+      "origin_file": "brazil_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "The effects of intergovernmental transfers on the local fiscal incentives of Brazilian municipalities",
+      "crossref_year": 2024,
+      "crossref_journal": "Journal of Government and Economics",
+      "crossref_authors": [
+        "Pedro Jorge Holanda Figueiredo Alves",
+        "Jevuks Matheus Araujo"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 90
+    },
+    {
+      "authors": [
+        "Yuchen Guo e Pinghan Liang"
+      ],
+      "year": 2025,
+      "title": "Budget rollover and year-end spending in China: evidence from public procurement contracts",
+      "journal": "China Economic Review",
+      "doi": "10.1016/j.chieco.2025.102522",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S1043951X25001804",
+      "finding": "Usando contratos de compras públicas de 2014–2021, os autores estimam que, após a reforma que restringiu a transferência de saldos entre exercícios, governos locais emitiram 25,8% mais contratos e duplicaram o gasto de compras no último mês do ano; contratos de fim de ano têm maior probabilidade de baixa qualidade.",
+      "relevance": "Analisa a implementação de regras orçamentárias e seu efeito sobre o padrão temporal e a qualidade das despesas de governos locais por meio de contratos públicos.",
+      "origin_file": "china_local_finance",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Budget rollover and year-end spending in China: evidence from public procurement contracts",
+      "crossref_year": 2025,
+      "crossref_journal": "China Economic Review",
+      "crossref_authors": [
+        "Yuchen Guo",
+        "Pinghan Liang"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 91
+    },
+    {
+      "authors": [
+        "Feng Liu",
+        "Yangmu Hu"
+      ],
+      "year": 2025,
+      "title": "Can fiscal transfers achieve both equity and efficiency: Evidence from Chinese counties",
+      "journal": "International Review of Economics & Finance",
+      "doi": "10.1016/j.iref.2025.104586",
+      "editorial_url": "https://www.sciencedirect.com/science/article/pii/S105905602500749X",
+      "finding": "Dados de 2016–2021 mostram que a equalização das transferências promove crescimento nos condados, sobretudo nos menos desenvolvidos, mas não aumenta a eficiência econômica provincial agregada e pode enfraquecer incentivos de crescimento das regiões mais ricas.",
+      "relevance": "Testa diretamente os efeitos da equalização de transferências fiscais sobre o crescimento econômico de condados e províncias chineses.",
+      "origin_file": "transfers_growth",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Can fiscal transfers achieve both equity and efficiency: Evidence from Chinese counties",
+      "crossref_year": 2025,
+      "crossref_journal": "International Review of Economics &amp; Finance",
+      "crossref_authors": [
+        "Feng Liu",
+        "Yangmu Hu"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 92
+    },
+    {
+      "authors": [
+        "Christopher Dick-Sagoe",
+        "Ernest Ngeh Tingum",
+        "Peter Asare-Nuamah",
+        "Denis N. Yuni",
+        "Nicholas Baidoo"
+      ],
+      "year": 2025,
+      "title": "Central transfers and incentives to collect local revenue among the Central Region of Ghana’s local government officials: analysing the flypaper effect",
+      "journal": "Humanities and Social Sciences Communications",
+      "doi": "10.1057/s41599-025-05463-x",
+      "editorial_url": "https://www.nature.com/articles/s41599-025-05463-x",
+      "finding": "Painel de 17 governos locais ganeses (2009–2020) encontrou coeficiente de transferências maior que o de receita própria no gasto e concluiu que o flypaper reduz incentivos à mobilização de receita local.",
+      "relevance": "",
+      "origin_file": "comparative_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Central transfers and incentives to collect local revenue among the Central Region of Ghana’s local government officials: analysing the flypaper effect",
+      "crossref_year": 2025,
+      "crossref_journal": "Humanities and Social Sciences Communications",
+      "crossref_authors": [
+        "Christopher Dick-Sagoe",
+        "Ernest Ngeh Tingum",
+        "Peter Asare-Nuamah",
+        "Denis N. Yuni",
+        "Nicholas Baidoo"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 93
+    },
+    {
+      "authors": [
+        "Xunhua Tu",
+        "Jie Yan",
+        "Yueyi Wang",
+        "Jing Zheng"
+      ],
+      "year": 2025,
+      "title": "Fiscal transfers and public health services in China: a macro–micro analysis",
+      "journal": "Frontiers in Public Health",
+      "doi": "10.3389/fpubh.2025.1577963",
+      "editorial_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12014559/",
+      "finding": "Com painéis de 1.871 condados e 283 cidades (2001–2020), encontra associação positiva entre transferências e nível de serviços; identifica mediação por reestruturação do gasto e eficiência da despesa em saúde, além de melhora na equidade local.",
+      "relevance": "Estuda se as transferências fiscais melhoram a provisão e a equidade dos serviços de saúde pública, combinando dados de condados e cidades chinesas.",
+      "origin_file": "china_transfers",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Fiscal transfers and public health services in China: a macro–micro analysis",
+      "crossref_year": 2025,
+      "crossref_journal": "Frontiers in Public Health",
+      "crossref_authors": [
+        "Xunhua Tu",
+        "Jie Yan",
+        "Yueyi Wang",
+        "Jing Zheng"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 94
+    },
+    {
+      "authors": [
+        "Luis Alberto da Costa",
+        "Napiê Galvê Araújo Silva",
+        "Vilmar Antonio Gonçalves Tondolo",
+        "Lauro Nogueira"
+      ],
+      "year": 2025,
+      "title": "Socioeconomic indicators and municipal revenues: Explanatory factors of the fiscal capacity of Brazilian municipalities",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-761220240085x",
+      "editorial_url": "https://periodicos.fgv.br/rap/article/view/92894",
+      "finding": "PIB per capita, renda média, IDEB, participação dos serviços no PIB e funcionários públicos per capita têm associação explicativa positiva e estatisticamente significativa com capacidade fiscal; a arrecadação própria de períodos anteriores também é relevante.",
+      "relevance": "Analisa receitas próprias e receitas da atividade econômica local como indicadores da capacidade fiscal dos 5.570 municípios, com dados em painel de 2005 a 2020.",
+      "origin_file": "brazil_tax_effort",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Socioeconomic indicators and municipal revenues: Explanatory factors of the fiscal capacity of Brazilian municipalities",
+      "crossref_year": 2025,
+      "crossref_journal": "Revista de Administração Pública",
+      "crossref_authors": [
+        "Luis Alberto da Costa",
+        "Napiê Galvê Araújo Silva",
+        "Vilmar Antonio Gonçalves Tondolo",
+        "Lauro Nogueira"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 95
+    },
+    {
+      "authors": [
+        "Luan Vinicius Bernardelli",
+        "Pietro André Telatin Paschoalino",
+        "Letícia Xander Russo",
+        "Michael Alexander Kortt"
+      ],
+      "year": 2026,
+      "title": "Intergovernmental transfers and fiscal performance: evidence from Brazil",
+      "journal": "Local Government Studies",
+      "doi": "10.1080/03003930.2026.2655683",
+      "editorial_url": "https://www.tandfonline.com/doi/abs/10.1080/03003930.2026.2655683",
+      "finding": "O estudo confirma associação positiva entre FPM e despesa corrente per capita e negativa entre transferências e receita própria, consistente com flypaper e menor esforço tributário local.",
+      "relevance": "Usa painel de todos os municípios de São Paulo entre 2013 e 2021 e quotas do FPM como instrumento para estimar impactos nas despesas e receitas próprias.",
+      "origin_file": "brazil_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Intergovernmental transfers and fiscal performance: evidence from Brazil",
+      "crossref_year": 2026,
+      "crossref_journal": "Local Government Studies",
+      "crossref_authors": [
+        "Luan Vinicius Bernardelli",
+        "Pietro André Telatin Paschoalino",
+        "Letícia Xander Russo",
+        "Michael Alexander Kortt"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 96
+    },
+    {
+      "authors": [
+        "Leonardo Sánchez-Aragón",
+        "Gonzalo E. Sánchez",
+        "Wladimir Zanoni"
+      ],
+      "year": 2026,
+      "title": "Stimulating local economies through central transfers: A natural experiment from Ecuador",
+      "journal": "Journal of Development Economics",
+      "doi": "10.1016/j.jdeveco.2025.103664",
+      "editorial_url": "https://www.sciencedirect.com/science/article/abs/pii/S0304387825002159",
+      "finding": "Usando a variação gerada pela reforma, estima que um aumento de 1% nas transferências elevou vendas empresariais totais em cerca de 0,94% em 2018 e 1,05% em 2019, principalmente via despesas correntes, salários e compras públicas; a edição impressa é de 2026 embora o DOI tenha ano 2025.",
+      "relevance": "Estima causalmente como a reforma da fórmula de transferências nacionais para municípios afeta a atividade econômica local no Equador.",
+      "origin_file": "transfers_growth",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Stimulating local economies through central transfers: A natural experiment from Ecuador",
+      "crossref_year": 2026,
+      "crossref_journal": "Journal of Development Economics",
+      "crossref_authors": [
+        "Leonardo Sánchez-Aragón",
+        "Gonzalo E. Sánchez",
+        "Wladimir Zanoni"
+      ],
+      "title_similarity": 1.0,
+      "title_match": true,
+      "verified_for_corpus": true,
+      "reference_id": 97
+    }
+  ],
+  "review_records": [
+    {
+      "authors": [
+        "Glauber Marques Nojosa",
+        "Fabricio Carneiro Linhares"
+      ],
+      "year": 2018,
+      "title": "Variabilidade do efeito flypaper e força política: uma análise para os municípios brasileiros",
+      "journal": "Pesquisa e Planejamento Econômico",
+      "doi": "não localizado no registro editorial consultado; a página da revista não apresenta doi para o artigo",
+      "editorial_url": "https://ppe.ipea.gov.br/index.php/ppe/article/view/1751",
+      "finding": "Com dados municipais de 2010 e modelo threshold, confirma o flypaper e encontra efeito mais intenso onde a base aliada do prefeito é maior que a oposição na Câmara; a heterogeneidade da coalizão também se associa a mais despesas.",
+      "relevance": "Analisa explicitamente a ocorrência e heterogeneidade do flypaper em municípios brasileiros, relacionando-a à força política dos prefeitos.",
+      "origin_file": "brazil_flypaper",
+      "ok": false,
+      "status": "404",
+      "crossref_type": "",
+      "crossref_title": "",
+      "crossref_year": null,
+      "crossref_journal": "",
+      "crossref_authors": [],
+      "title_similarity": 0.0,
+      "title_match": false,
+      "verified_for_corpus": false
+    },
+    {
+      "authors": [
+        "Elizete Aparecida de Magalhães",
+        "Veronica Costa Silva",
+        "João Paulo de Oliveira Louzano",
+        "Vasconcelos Reis Wakim"
+      ],
+      "year": 2025,
+      "title": "Transferências intergovernamentais e gastos públicos: uma análise do efeito flypaper nos municípios de Minas Gerais",
+      "journal": "Revista Mineira de Contabilidade",
+      "doi": "10.51320/rmc.v26i1.1512",
+      "editorial_url": "https://revista.crcmg.org.br/rmc/article/view/1512",
+      "finding": "A regressão dinâmica em painel indica que transferências do FPM expandem os gastos municipais, confirmando o flypaper na amostra mineira.",
+      "relevance": "Teste do efeito do Fundo de Participação dos Municípios sobre despesas de 677 municípios mineiros no período de 2008 a 2018.",
+      "origin_file": "brazil_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "TRANSFERÊNCIAS INTERGOVERNAMENTAIS E GASTOS PÚBLICOS",
+      "crossref_year": 2025,
+      "crossref_journal": "Revista Mineira de Contabilidade",
+      "crossref_authors": [
+        "Elizete Aparecida de Magalhães",
+        "Veronica Costa Silva",
+        "João Paulo de Oliveira Louzano",
+        "Vasconcelos Reis Wakim"
+      ],
+      "title_similarity": 0.627906976744186,
+      "title_match": false,
+      "verified_for_corpus": false
+    },
+    {
+      "authors": [
+        "Wesley Hanzabro Gomes de Watanabe"
+      ],
+      "year": 2026,
+      "title": "Transferências intergovernamentais e gastos públicos: o efeito flypaper nos municípios de Goiás (2009-2023)",
+      "journal": "Revista de Economia do Centro-Oeste",
+      "doi": "10.5216/reoeste.v11i1.86275",
+      "editorial_url": "https://revistas.ufg.br/reoeste/article/view/86275",
+      "finding": "Encontra evidência robusta de que transferências elevam o gasto mais que aumento equivalente da renda privada; o efeito é mais forte nos municípios menores, enfraquece na crise de 2015–2019 e se recupera após a pandemia.",
+      "relevance": "Avaliação explícita do flypaper nos municípios goianos durante 2009–2023, com diferentes estimadores de painel e regressão quantílica.",
+      "origin_file": "brazil_flypaper",
+      "ok": true,
+      "status": 200,
+      "crossref_type": "journal-article",
+      "crossref_title": "Transferências intergovernamentais e gastos públicos",
+      "crossref_year": 2026,
+      "crossref_journal": "Revista de Economia do Centro-Oeste",
+      "crossref_authors": [
+        "Wesley Hanzabro Gomes de Watanabe"
+      ],
+      "title_similarity": 0.6666666666666666,
+      "title_match": false,
+      "verified_for_corpus": false
+    },
+    {
+      "authors": [
+        "Liu Guanchun",
+        "Zhou Wei"
+      ],
+      "year": 2019,
+      "title": "Transfer Payment Uncertainty and Local Fiscal Expenditure Bias in China",
+      "journal": "Journal of Finance and Economics",
+      "doi": "10.16538/j.cnki.jfe.2019.06.001",
+      "editorial_url": "https://qks.sufe.edu.cn/J/CJYJ/Article/Details/911550bc-eef8-429b-8b73-de8dd6fa1256",
+      "finding": "Com dados em painel de condados, encontra que a incerteza dos repasses aumenta significativamente a inclinação dos gastos para atividades produtivas, sobretudo no centro-oeste e em regiões com menor autofinanciamento ou menor entrada líquida de transferências; isso pode agravar a insuficiência de bens públicos sociais.",
+      "relevance": "Investiga como a volatilidade dos repasses intergovernamentais muda as decisões de composição do gasto dos governos locais chineses.",
+      "origin_file": "china_transfers",
+      "ok": false,
+      "status": "404",
+      "crossref_type": "",
+      "crossref_title": "",
+      "crossref_year": null,
+      "crossref_journal": "",
+      "crossref_authors": [],
+      "title_similarity": 0.0,
+      "title_match": false,
+      "verified_for_corpus": false
+    }
+  ],
+  "audit_mode": "archived_crossref_snapshot"
+}
